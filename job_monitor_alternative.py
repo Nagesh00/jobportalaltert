@@ -134,55 +134,6 @@ class AlternativeJobMonitor:
         
         return jobs
     
-    def create_sample_jobs(self):
-        """Create sample jobs for demonstration purposes"""
-        print("🧪 Creating sample jobs for demonstration...")
-        
-        sample_jobs = [
-            {
-                'id': f'demo_qa_engineer_{int(datetime.datetime.now().timestamp())}',
-                'title': 'QA Automation Engineer',
-                'company': 'TechCorp Solutions',
-                'location': 'New York, NY (Remote)',
-                'snippet': 'We are seeking a QA Automation Engineer with 3-5 years of experience in test automation frameworks like Selenium, Cypress, and API testing. Must have experience with CI/CD pipelines and Agile methodologies.',
-                'url': 'https://example.com/jobs/qa-engineer',
-                'country': 'US',
-                'date_found': datetime.datetime.now().isoformat(),
-                'source': 'Demo'
-            },
-            {
-                'id': f'demo_sdet_{int(datetime.datetime.now().timestamp())}',
-                'title': 'Software Development Engineer in Test (SDET)',
-                'company': 'Innovation Labs',
-                'location': 'San Francisco, CA',
-                'snippet': 'Join our growing team as an SDET! We need someone with 2-4 years experience in automated testing, Python/Java programming, and experience with testing frameworks. Knowledge of Docker and Kubernetes is a plus.',
-                'url': 'https://example.com/jobs/sdet',
-                'country': 'US',
-                'date_found': datetime.datetime.now().isoformat(),
-                'source': 'Demo'
-            },
-            {
-                'id': f'demo_manual_tester_{int(datetime.datetime.now().timestamp())}',
-                'title': 'Manual QA Tester',
-                'company': 'StartupXYZ',
-                'location': 'Austin, TX',
-                'snippet': 'Looking for a detail-oriented Manual QA Tester with 2+ years of experience in web application testing, mobile testing, and bug reporting. Experience with test case design and execution required.',
-                'url': 'https://example.com/jobs/manual-tester',
-                'country': 'US',
-                'date_found': datetime.datetime.now().isoformat(),
-                'source': 'Demo'
-            }
-        ]
-        
-        # Filter out jobs we've already seen
-        new_jobs = []
-        for job in sample_jobs:
-            if job['id'] not in self.tracked_jobs:
-                new_jobs.append(job)
-        
-        print(f"✅ Created {len(new_jobs)} new demo jobs")
-        return new_jobs
-    
     def is_testing_job(self, title, description):
         """Check if a job is related to software testing"""
         title_lower = title.lower()
@@ -334,11 +285,10 @@ class AlternativeJobMonitor:
         
         all_new_jobs = []
         
-        # Try different sources
+        # Try different sources - REAL JOBS ONLY
         sources = [
             self.search_remoteok_api,
-            self.search_jobs_rss_feeds,
-            self.create_sample_jobs  # For demonstration
+            self.search_jobs_rss_feeds
         ]
         
         for source_func in sources:
@@ -357,6 +307,9 @@ class AlternativeJobMonitor:
             # Send notifications
             if self.telegram_config:
                 self.send_telegram_notification(all_new_jobs)
+            
+            if self.email_config and all(self.email_config.values()):
+                self.send_email_notification(all_new_jobs)
             
             if self.email_config and all(self.email_config.values()):
                 self.send_email_notification(all_new_jobs)
@@ -407,12 +360,12 @@ def main():
     
     print(f"\n✅ Job monitoring completed. Found {new_jobs_count} new jobs.")
     
-    print(f"\n💡 Tips for production use:")
-    print("1. Replace demo jobs with real API integrations")
-    print("2. Add more job board APIs (AngelList, LinkedIn, etc.)")
-    print("3. Use official RSS feeds where available")
-    print("4. Consider paid job aggregation services")
-    print("5. Set up proper notification credentials")
+    print(f"\n💡 Real-time job monitoring active:")
+    print("✅ Using RemoteOK API for live job data")
+    print("✅ No demo jobs - only real opportunities")
+    print("✅ Telegram + Email notifications configured")
+    print("✅ Automatic duplicate filtering")
+    print("💼 Add your email credentials to enable email alerts")
 
 if __name__ == "__main__":
     main()

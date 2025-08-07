@@ -570,5 +570,27 @@
     "country": "US",
     "date_found": "2025-08-07T16:04:32.452142",
     "source": "Demo"
+  },
+  "remoteok_1093766": {
+    "id": "remoteok_1093766",
+    "title": "DevOps Engineer",
+    "company": "InfStones",
+    "location": "Remote",
+    "snippet": "<p><b>Job Position: DevOps Engineer</b></p><p><b>Location: Texas, California, Georgia, USA (Remote Acceptable - USA Applicants Only)</b></p><p><b>Company: <a class=\"postings-link\" href=\"https://infstones.com/\">https://infstones.com/</a></b></p><p><b>Contact: </b><a class=\"postings-link\" href=\"http:/",
+    "url": "https://remoteok.io/remote-jobs/1093766",
+    "country": "Remote",
+    "date_found": "2025-08-07T16:33:11.773457",
+    "source": "RemoteOK"
+  },
+  "remoteok_1093764": {
+    "id": "remoteok_1093764",
+    "title": "Senior Full Stack Engineer",
+    "company": "FetLife",
+    "location": "Remote",
+    "snippet": "<div class=\"story__copy bigger mb-3.5\"><p>At FetLife we're looking for a Senior Full Stack Engineer to help us better serve the community.</p></div><div class=\"story__copy\"><h2>The Job</h2><p>As a Full Stack Engineer, you'll be focusing on improving our codebase to make it more performant and easier",
+    "url": "https://remoteok.io/remote-jobs/1093764",
+    "country": "Remote",
+    "date_found": "2025-08-07T16:33:11.773645",
+    "source": "RemoteOK"
   }
 }
