@@ -571,6 +571,7 @@
     "date_found": "2025-08-07T16:04:32.452142",
     "source": "Demo"
   },
+<<<<<<< HEAD
   "remoteok_1093766": {
     "id": "remoteok_1093766",
     "title": "DevOps Engineer",
@@ -592,5 +593,39 @@
     "country": "Remote",
     "date_found": "2025-08-07T16:33:11.773645",
     "source": "RemoteOK"
+=======
+  "demo_qa_engineer_1754564296": {
+    "id": "demo_qa_engineer_1754564296",
+    "title": "QA Automation Engineer",
+    "company": "TechCorp Solutions",
+    "location": "New York, NY (Remote)",
+    "snippet": "We are seeking a QA Automation Engineer with 3-5 years of experience in test automation frameworks like Selenium, Cypress, and API testing. Must have experience with CI/CD pipelines and Agile methodologies.",
+    "url": "https://example.com/jobs/qa-engineer",
+    "country": "US",
+    "date_found": "2025-08-07T10:58:16.049540",
+    "source": "Demo"
+  },
+  "demo_sdet_1754564296": {
+    "id": "demo_sdet_1754564296",
+    "title": "Software Development Engineer in Test (SDET)",
+    "company": "Innovation Labs",
+    "location": "San Francisco, CA",
+    "snippet": "Join our growing team as an SDET! We need someone with 2-4 years experience in automated testing, Python/Java programming, and experience with testing frameworks. Knowledge of Docker and Kubernetes is a plus.",
+    "url": "https://example.com/jobs/sdet",
+    "country": "US",
+    "date_found": "2025-08-07T10:58:16.049545",
+    "source": "Demo"
+  },
+  "demo_manual_tester_1754564296": {
+    "id": "demo_manual_tester_1754564296",
+    "title": "Manual QA Tester",
+    "company": "StartupXYZ",
+    "location": "Austin, TX",
+    "snippet": "Looking for a detail-oriented Manual QA Tester with 2+ years of experience in web application testing, mobile testing, and bug reporting. Experience with test case design and execution required.",
+    "url": "https://example.com/jobs/manual-tester",
+    "country": "US",
+    "date_found": "2025-08-07T10:58:16.049547",
+    "source": "Demo"
+>>>>>>> 15606352c8c8d962f1e4d146434b939dbacf0f80
   }
 }
