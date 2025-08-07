@@ -1,0 +1,128 @@
+2025-08-07 18:05:18,905 - ERROR - Gemini test error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:18,973 - INFO - ================================================================================
+2025-08-07 18:05:18,990 - INFO - ================================================================================
+2025-08-07 18:05:19,385 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:05:20,389 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:05:20,673 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:05:21,872 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:05:22,268 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:05:23,059 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:05:23,842 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:24,351 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:24,750 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:25,122 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:25,566 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:25,921 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:05:25,973 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:38,060 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:05:47,657 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:05:56,453 - INFO - RemoteOK sdet: Status 200
+2025-08-07 18:05:58,916 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:59,417 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:05:59,972 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:06:00,426 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:06:00,801 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:06:01,199 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:06:01,565 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:06:01,934 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:06:02,308 - WARNING - Gemini analysis error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:07:34,638 - INFO - ================================================================================
+2025-08-07 18:07:35,029 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:07:35,542 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:07:36,219 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:07:36,929 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:07:37,358 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:07:38,548 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:07:43,003 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:07:50,535 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:07:58,191 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:08:05,749 - INFO - RemoteOK sdet: Status 200
+2025-08-07 18:09:37,916 - INFO - ================================================================================
+2025-08-07 18:09:38,184 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:09:38,789 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:09:39,345 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:09:40,241 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:09:40,488 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:09:41,721 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:09:46,960 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:09:58,204 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:10:10,317 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:10:19,746 - INFO - RemoteOK sdet: Status 200
+2025-08-07 18:11:51,895 - INFO - ================================================================================
+2025-08-07 18:11:52,121 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:11:52,719 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:11:53,270 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:11:54,453 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:11:54,503 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:11:55,628 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:12:00,276 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:12:10,410 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:12:19,856 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:12:29,047 - INFO - RemoteOK sdet: Status 200
+2025-08-07 18:14:01,310 - INFO - ================================================================================
+2025-08-07 18:14:01,544 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:14:02,049 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:14:02,730 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:14:03,435 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:14:03,863 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:14:05,026 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:14:07,215 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:14:16,290 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:14:22,971 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:14:28,635 - INFO - RemoteOK sdet: Status 200
+2025-08-07 18:16:00,737 - INFO - ================================================================================
+2025-08-07 18:16:01,000 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:16:01,591 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:16:02,198 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:16:02,963 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:16:03,357 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:16:04,575 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:16:09,655 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:16:22,477 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:16:33,312 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:16:43,847 - INFO - RemoteOK sdet: Status 200
+2025-08-07 18:18:15,969 - INFO - ================================================================================
+2025-08-07 18:18:16,271 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:18:16,768 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:18:17,515 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:18:18,230 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:18:18,736 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:18:20,057 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:18:26,617 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:18:38,540 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:18:49,484 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:18:58,923 - INFO - RemoteOK sdet: Status 200
+2025-08-07 18:20:31,028 - INFO - ================================================================================
+2025-08-07 18:20:31,724 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:20:31,930 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:20:33,326 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:20:33,408 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:20:34,881 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:20:36,105 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:20:37,937 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:20:46,036 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:20:54,507 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:21:04,810 - INFO - RemoteOK sdet: Status 200
+2025-08-07 18:22:36,945 - INFO - ================================================================================
+2025-08-07 18:22:37,177 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:22:37,731 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:22:38,413 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:22:39,122 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:22:39,898 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:22:41,093 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:22:46,040 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:47:11,965 - WARNING - RemoteOK request error for testing: HTTPSConnectionPool(host='remoteok.com', port=443): Read timed out. (read timeout=15)
+2025-08-07 18:47:24,037 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:47:54,582 - WARNING - RemoteOK request error for sdet: HTTPSConnectionPool(host='remoteok.io', port=443): Max retries exceeded with url: /api?tag=sdet (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2025-08-07 18:49:00,015 - ERROR - Gemini test error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-07 18:49:00,403 - INFO - ================================================================================
+2025-08-07 18:49:01,104 - INFO - Stack Overflow software+testing+2+years: Found 0 entries
+2025-08-07 18:49:01,937 - INFO - WeWorkRemotely RSS: Found 25 entries
+2025-08-07 18:49:02,415 - INFO - Stack Overflow qa+automation: Found 0 entries
+2025-08-07 18:49:03,561 - INFO - WeWorkRemotely RSS: Found 0 entries
+2025-08-07 18:49:03,697 - INFO - Stack Overflow test+engineer: Found 0 entries
+2025-08-07 18:49:05,240 - INFO - Stack Overflow sdet: Found 0 entries
+2025-08-07 18:49:11,071 - INFO - RemoteOK qa: Status 200
+2025-08-07 18:49:21,690 - INFO - RemoteOK testing: Status 200
+2025-08-07 18:49:37,506 - INFO - RemoteOK automation: Status 200
+2025-08-07 18:49:50,520 - INFO - RemoteOK sdet: Status 200
