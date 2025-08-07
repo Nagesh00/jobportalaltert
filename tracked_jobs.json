@@ -1,0 +1,32 @@
+{
+  "job1_1754561830": {
+    "id": "job1_1754561830",
+    "title": "Software Test Engineer",
+    "company": "Tech Corp",
+    "location": "New York, NY",
+    "snippet": "We are looking for a Software Test Engineer with 3 years experience in automation testing using Selenium and Python.",
+    "url": "https://indeed.com/viewjob?jk=job1_test",
+    "country": "US",
+    "date_found": "2025-08-07T15:47:10.929162"
+  },
+  "job2_1754561830": {
+    "id": "job2_1754561830",
+    "title": "QA Automation Engineer",
+    "company": "Software Solutions Inc",
+    "location": "San Francisco, CA",
+    "snippet": "Join our QA team! Looking for 2-4 years experience in test automation, API testing, and quality assurance processes.",
+    "url": "https://indeed.com/viewjob?jk=job2_test",
+    "country": "US",
+    "date_found": "2025-08-07T15:47:10.929176"
+  },
+  "job3_1754561830": {
+    "id": "job3_1754561830",
+    "title": "Manual Testing Specialist",
+    "company": "Digital Innovations",
+    "location": "Austin, TX",
+    "snippet": "Manual testing role requiring 2+ years experience in web application testing and bug reporting.",
+    "url": "https://indeed.com/viewjob?jk=job3_test",
+    "country": "US",
+    "date_found": "2025-08-07T15:47:10.929182"
+  }
+}
