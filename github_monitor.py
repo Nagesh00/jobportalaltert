@@ -27,6 +27,7 @@ class GitHubJobMonitor:
         }
         self.gemini_api_key = os.environ.get('GEMINI_API_KEY')
         self.reed_api_key = os.environ.get('REED_API_KEY', 'a3109410-807f-4753-b098-353adb07a966')
+        self.jooble_api_key = os.environ.get('JOOBLE_API_KEY', '4452241a-50c6-416b-a47a-98261c93fd39')
         self.jobs_file = "github_monitor_jobs.json"
         self.tracked_jobs = {}
         self.load_tracked_jobs()
@@ -299,18 +300,96 @@ class GitHubJobMonitor:
             logging.error(f"❌ Reed.co.uk scan error: {str(e)}")
             return []
     
+    def scan_jooble(self):
+        """Scan Jooble API for testing jobs worldwide"""
+        try:
+            # Jooble API endpoint
+            base_url = f"https://jooble.org/api/{self.jooble_api_key}"
+            
+            # Search parameters for testing jobs
+            search_params = {
+                'keywords': 'software testing QA automation test engineer',
+                'location': '',  # Worldwide search
+                'radius': '',
+                'salarymin': '',
+                'salarymax': '',
+                'salary': '',
+                'datecreatedfrom': '',
+                'page': '1'
+            }
+            
+            headers = {
+                'Content-Type': 'application/json',
+                'User-Agent': 'JobMonitor/1.0'
+            }
+            
+            response = requests.post(base_url, json=search_params, headers=headers, timeout=15)
+            
+            if response.status_code != 200:
+                logging.error(f"❌ Jooble API failed: {response.status_code}")
+                return []
+            
+            data = response.json()
+            jobs_data = data.get('jobs', [])
+            
+            new_jobs = []
+            for job in jobs_data[:20]:  # Process up to 20 jobs
+                # Check for testing keywords and experience
+                title = str(job.get('title', '')).lower()
+                snippet = str(job.get('snippet', '')).lower()
+                company = str(job.get('company', ''))
+                
+                # Testing keywords
+                testing_keywords = ['test', 'qa', 'quality assurance', 'automation', 'selenium', 'cypress', 'junit', 'testng']
+                has_testing = any(keyword in title or keyword in snippet for keyword in testing_keywords)
+                
+                # Experience keywords for 2+ years
+                exp_keywords = ['2+ year', '2 year', 'experienced', 'senior', '3+ year', '4+ year', '5+ year', 'experience']
+                has_experience = any(keyword in snippet for keyword in exp_keywords)
+                
+                if has_testing and has_experience:
+                    job_id = f"jooble_{hash(job.get('link', ''))}"
+                    
+                    if job_id not in self.tracked_jobs:
+                        # Format salary if available
+                        salary = job.get('salary', 'Competitive')
+                        if not salary or salary.lower() == 'none':
+                            salary = 'Competitive'
+                        
+                        new_job = {
+                            'id': job_id,
+                            'title': job.get('title', 'Software Tester'),
+                            'company': company if company else 'Various Companies',
+                            'location': job.get('location', 'Multiple Locations'),
+                            'salary': salary,
+                            'url': job.get('link', ''),
+                            'source': 'Jooble',
+                            'posted': datetime.datetime.now().isoformat(),
+                            'snippet': snippet[:150] + '...' if len(snippet) > 150 else snippet
+                        }
+                        new_jobs.append(new_job)
+                        self.tracked_jobs[job_id] = new_job
+            
+            logging.info(f"✅ Jooble: Found {len(new_jobs)} new testing jobs")
+            return new_jobs
+            
+        except Exception as e:
+            logging.error(f"❌ Jooble scan error: {str(e)}")
+            return []
+    
     def run_single_scan(self):
         """Run a single comprehensive scan"""
         logging.info("🔍 Starting GitHub Actions job scan...")
         all_new_jobs = []
         
-        # Scan all sources concurrently (including Reed.co.uk)
-        with ThreadPoolExecutor(max_workers=4) as executor:
+        # Scan all sources concurrently (including Reed.co.uk and Jooble)
+        with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
                 executor.submit(self.scan_remoteok),
                 executor.submit(self.scan_stackoverflow),
                 executor.submit(self.scan_indeed_rss),
-                executor.submit(self.scan_reed_uk)
+                executor.submit(self.scan_reed_uk),
+                executor.submit(self.scan_jooble)
             ]
             
             for future in futures:

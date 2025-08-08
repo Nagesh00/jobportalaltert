@@ -29,7 +29,7 @@ def instant_test():
         except:
             return False
     
-    # Test Job APIs (including Reed)
+    # Test Job APIs (including Reed and Jooble)
     def test_jobs():
         try:
             # Test RemoteOK
@@ -48,7 +48,16 @@ def instant_test():
             reed_response = requests.get(reed_url, params=reed_params, auth=reed_auth, timeout=10)
             reed_ok = reed_response.status_code == 200
             
-            return remoteok_ok and reed_ok
+            # Test Jooble
+            jooble_api_key = '4452241a-50c6-416b-a47a-98261c93fd39'
+            jooble_url = f"https://jooble.org/api/{jooble_api_key}"
+            jooble_params = {'keywords': 'software testing', 'location': '', 'page': '1'}
+            jooble_headers = {'Content-Type': 'application/json'}
+            
+            jooble_response = requests.post(jooble_url, json=jooble_params, headers=jooble_headers, timeout=10)
+            jooble_ok = jooble_response.status_code == 200
+            
+            return remoteok_ok and reed_ok and jooble_ok
         except:
             return False
     
@@ -58,14 +67,15 @@ def instant_test():
     
     print(f"\n📊 RESULTS:")
     print(f"📱 Telegram: {'✅' if telegram_ok else '❌'}")
-    print(f"🌐 Job APIs (RemoteOK + Reed): {'✅' if jobs_ok else '❌'}")
+    print(f"🌐 Job APIs (RemoteOK + Reed + Jooble): {'✅' if jobs_ok else '❌'}")
     
     if telegram_ok and jobs_ok:
         print(f"\n🎉 ALL WORKING!")
         print(f"✅ GitHub Actions should work now")
         print(f"✅ Check your Telegram for test message")
         print(f"🇬🇧 Reed.co.uk API integrated!")
-        print(f"📈 Now monitoring 4 job sources!")
+        print(f"🌍 Jooble API integrated!")
+        print(f"📈 Now monitoring 5 job sources!")
     else:
         print(f"\n⚠️ Issues detected:")
         if not telegram_ok:
