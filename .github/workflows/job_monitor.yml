@@ -33,6 +33,7 @@ jobs:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        REED_API_KEY: ${{ secrets.REED_API_KEY }}
         TARGET_EMAIL: kalyogyogi@gmail.com
       run: python github_monitor.py
       

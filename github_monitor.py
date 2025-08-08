@@ -26,6 +26,7 @@ class GitHubJobMonitor:
             'chat_id': os.environ.get('TELEGRAM_CHAT_ID', '6411380646')
         }
         self.gemini_api_key = os.environ.get('GEMINI_API_KEY')
+        self.reed_api_key = os.environ.get('REED_API_KEY', 'a3109410-807f-4753-b098-353adb07a966')
         self.jobs_file = "github_monitor_jobs.json"
         self.tracked_jobs = {}
         self.load_tracked_jobs()
@@ -220,17 +221,96 @@ class GitHubJobMonitor:
             logging.error(f"❌ Indeed RSS scan error: {str(e)}")
             return []
     
+    def scan_reed_uk(self):
+        """Scan Reed.co.uk API for testing jobs"""
+        try:
+            # Reed.co.uk API endpoint
+            base_url = "https://www.reed.co.uk/api/1.0/search"
+            
+            # Search parameters for testing jobs
+            params = {
+                'keywords': 'software testing OR qa automation OR test engineer',
+                'locationName': '',  # All locations
+                'distanceFromLocation': 50,
+                'permanent': 'true',
+                'resultsToTake': 20,
+                'resultsToSkip': 0
+            }
+            
+            # API authentication (Reed uses basic auth with API key as username)
+            auth = (self.reed_api_key, '')
+            headers = {'User-Agent': 'JobMonitor/1.0'}
+            
+            response = requests.get(base_url, params=params, auth=auth, headers=headers, timeout=15)
+            
+            if response.status_code != 200:
+                logging.error(f"❌ Reed API failed: {response.status_code}")
+                return []
+            
+            data = response.json()
+            jobs_data = data.get('results', [])
+            
+            new_jobs = []
+            for job in jobs_data:
+                # Check for testing keywords and experience
+                title = str(job.get('jobTitle', '')).lower()
+                description = str(job.get('jobDescription', '')).lower()
+                
+                # Testing keywords
+                testing_keywords = ['test', 'qa', 'quality assurance', 'automation', 'selenium', 'cypress']
+                has_testing = any(keyword in title or keyword in description for keyword in testing_keywords)
+                
+                # Experience keywords for 2+ years
+                exp_keywords = ['2+ year', '2 year', 'experienced', 'senior', '3+ year', '4+ year', '5+ year']
+                has_experience = any(keyword in description for keyword in exp_keywords)
+                
+                if has_testing and has_experience:
+                    job_id = f"reed_{job.get('jobId', '')}"
+                    
+                    if job_id not in self.tracked_jobs:
+                        # Format salary
+                        salary_min = job.get('minimumSalary', 0)
+                        salary_max = job.get('maximumSalary', 0)
+                        if salary_min and salary_max:
+                            salary = f"£{salary_min:,} - £{salary_max:,}"
+                        elif salary_min:
+                            salary = f"£{salary_min:,}+"
+                        else:
+                            salary = "Competitive"
+                        
+                        new_job = {
+                            'id': job_id,
+                            'title': job.get('jobTitle', 'Software Tester'),
+                            'company': job.get('employerName', 'Reed Company'),
+                            'location': job.get('locationName', 'UK'),
+                            'salary': salary,
+                            'url': job.get('jobUrl', f"https://www.reed.co.uk/jobs/{job.get('jobId', '')}"),
+                            'source': 'Reed.co.uk',
+                            'posted': datetime.datetime.now().isoformat(),
+                            'description': job.get('jobDescription', '')[:200] + '...'
+                        }
+                        new_jobs.append(new_job)
+                        self.tracked_jobs[job_id] = new_job
+            
+            logging.info(f"✅ Reed.co.uk: Found {len(new_jobs)} new testing jobs")
+            return new_jobs
+            
+        except Exception as e:
+            logging.error(f"❌ Reed.co.uk scan error: {str(e)}")
+            return []
+    
     def run_single_scan(self):
         """Run a single comprehensive scan"""
         logging.info("🔍 Starting GitHub Actions job scan...")
         all_new_jobs = []
         
-        # Scan all sources concurrently
-        with ThreadPoolExecutor(max_workers=3) as executor:
+        # Scan all sources concurrently (including Reed.co.uk)
+        with ThreadPoolExecutor(max_workers=4) as executor:
             futures = [
                 executor.submit(self.scan_remoteok),
                 executor.submit(self.scan_stackoverflow),
-                executor.submit(self.scan_indeed_rss)
+                executor.submit(self.scan_indeed_rss),
+                executor.submit(self.scan_reed_uk)
             ]
             
             for future in futures:

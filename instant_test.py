@@ -29,17 +29,26 @@ def instant_test():
         except:
             return False
     
-    # Test Job API
+    # Test Job APIs (including Reed)
     def test_jobs():
         try:
+            # Test RemoteOK
             url = "https://remoteok.io/api"
             headers = {'User-Agent': 'Mozilla/5.0'}
             response = requests.get(url, headers=headers, timeout=10)
             
-            if response.status_code == 200:
-                jobs = response.json()
-                return len(jobs) > 1
-            return False
+            remoteok_ok = response.status_code == 200 and len(response.json()) > 1
+            
+            # Test Reed.co.uk
+            reed_api_key = 'a3109410-807f-4753-b098-353adb07a966'
+            reed_url = "https://www.reed.co.uk/api/1.0/search"
+            reed_params = {'keywords': 'software testing', 'resultsToTake': 1}
+            reed_auth = (reed_api_key, '')
+            
+            reed_response = requests.get(reed_url, params=reed_params, auth=reed_auth, timeout=10)
+            reed_ok = reed_response.status_code == 200
+            
+            return remoteok_ok and reed_ok
         except:
             return False
     
@@ -49,18 +58,20 @@ def instant_test():
     
     print(f"\n📊 RESULTS:")
     print(f"📱 Telegram: {'✅' if telegram_ok else '❌'}")
-    print(f"🌐 Job API: {'✅' if jobs_ok else '❌'}")
+    print(f"🌐 Job APIs (RemoteOK + Reed): {'✅' if jobs_ok else '❌'}")
     
     if telegram_ok and jobs_ok:
         print(f"\n🎉 ALL WORKING!")
         print(f"✅ GitHub Actions should work now")
         print(f"✅ Check your Telegram for test message")
+        print(f"🇬🇧 Reed.co.uk API integrated!")
+        print(f"📈 Now monitoring 4 job sources!")
     else:
         print(f"\n⚠️ Issues detected:")
         if not telegram_ok:
             print(f"   - Telegram connection failed")
         if not jobs_ok:
-            print(f"   - Job API connection failed")
+            print(f"   - Job API connections failed")
     
     return telegram_ok and jobs_ok
 
