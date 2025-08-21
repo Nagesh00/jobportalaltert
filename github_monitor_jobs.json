@@ -1040,5 +1040,55 @@
       "health",
       "digital nomad"
     ]
+  },
+  "1093881": {
+    "id": "1093881",
+    "title": "Senior Software Engineer PHP and Laravel",
+    "company": "3Pillar",
+    "location": "India",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1093881",
+    "source": "RemoteOK",
+    "posted": "2025-08-21T16:31:30.990216",
+    "tags": [
+      "software",
+      "design",
+      "architect",
+      "growth",
+      "code",
+      "laravel",
+      "php",
+      "senior",
+      "health",
+      "engineer",
+      "digital nomad"
+    ]
+  },
+  "1093878": {
+    "id": "1093878",
+    "title": "Senior Staff DevOps Engineer",
+    "company": "Manifest",
+    "location": "Remote",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1093878",
+    "source": "RemoteOK",
+    "posted": "2025-08-21T16:31:30.990437",
+    "tags": [
+      "design",
+      "security",
+      "technical",
+      "support",
+      "software",
+      "growth",
+      "ui",
+      "devops",
+      "cloud",
+      "api",
+      "senior",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ]
   }
 }
