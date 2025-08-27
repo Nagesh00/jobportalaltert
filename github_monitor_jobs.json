@@ -1183,5 +1183,59 @@
       "recruitment",
       "digital nomad"
     ]
+  },
+  "1095228": {
+    "id": "1095228",
+    "title": "Senior Designer UI",
+    "company": "CourtAvenue",
+    "location": "",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1095228",
+    "source": "RemoteOK",
+    "posted": "2025-08-27T01:40:25.453139",
+    "tags": [
+      "ui",
+      "design",
+      "system",
+      "designer",
+      "testing",
+      "ux",
+      "lead",
+      "senior",
+      "junior",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1095227": {
+    "id": "1095227",
+    "title": "Senior Engineer Production Operations",
+    "company": "Greenlight Financial Technology",
+    "location": "Atlanta (Remote Friendly)",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1095227",
+    "source": "RemoteOK",
+    "posted": "2025-08-27T01:40:25.453255",
+    "tags": [
+      "system",
+      "security",
+      "technical",
+      "recruiter",
+      "support",
+      "software",
+      "code",
+      "finance",
+      "financial",
+      "fintech",
+      "banking",
+      "cloud",
+      "senior",
+      "operations",
+      "operational",
+      "reliability",
+      "health",
+      "engineer",
+      "engineering"
+    ]
   }
 }
