@@ -1327,5 +1327,88 @@
     "source": "Reed.co.uk",
     "posted": "2025-09-08T20:41:13.067162",
     "description": "Fixed Wire Test Engineer - Glasgow area Experience with Electrical Testing and Inspection? Expert at Fixed Wire Testing? Looking for a great career with a market-leading company? Come and be part of o..."
+  },
+  "1107448": {
+    "id": "1107448",
+    "title": "Senior Ruby on Rails Engineer",
+    "company": "EverAI",
+    "location": "",
+    "salary": 90000,
+    "url": "https://remoteok.io/remote-jobs/1107448",
+    "source": "RemoteOK",
+    "posted": "2025-09-11T21:16:57.182969",
+    "tags": [
+      "engineer",
+      "dev",
+      "technical",
+      "backend",
+      "full stack",
+      "full time",
+      "ruby",
+      "web dev"
+    ]
+  },
+  "1107277": {
+    "id": "1107277",
+    "title": "Senior Performance Marketer",
+    "company": "EverAI",
+    "location": "",
+    "salary": 70000,
+    "url": "https://remoteok.io/remote-jobs/1107277",
+    "source": "RemoteOK",
+    "posted": "2025-09-11T21:16:57.183045",
+    "tags": [
+      "marketing"
+    ]
+  },
+  "1104983": {
+    "id": "1104983",
+    "title": "Senior Full Stack Engineer",
+    "company": "Aguru UK",
+    "location": "",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1104983",
+    "source": "RemoteOK",
+    "posted": "2025-09-11T21:16:57.183095",
+    "tags": [
+      "engineer",
+      "dev",
+      "technical",
+      "front end"
+    ]
+  },
+  "1104952": {
+    "id": "1104952",
+    "title": "Senior DevOps Engineer",
+    "company": "Aguru UK",
+    "location": "",
+    "salary": 80000,
+    "url": "https://remoteok.io/remote-jobs/1104952",
+    "source": "RemoteOK",
+    "posted": "2025-09-11T21:16:57.183159",
+    "tags": [
+      "engineer",
+      "technical",
+      "backend",
+      "devops"
+    ]
+  },
+  "1103192": {
+    "id": "1103192",
+    "title": "Mid level Backend Dev for SaaS the music industry",
+    "company": "MelodyIQ",
+    "location": "",
+    "salary": 80000,
+    "url": "https://remoteok.io/remote-jobs/1103192",
+    "source": "RemoteOK",
+    "posted": "2025-09-11T21:16:57.183364",
+    "tags": [
+      "dev",
+      "javascript",
+      "react",
+      "typescript",
+      "node",
+      "postgres"
+    ]
   }
 }
