@@ -1766,5 +1766,47 @@
       "engineering",
       "digital nomad"
     ]
+  },
+  "1128174": {
+    "id": "1128174",
+    "title": "Senior Software Engineer Backend",
+    "company": "Superhuman",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1128174",
+    "source": "RemoteOK",
+    "posted": "2025-10-01T16:26:31.905663",
+    "tags": [
+      "software",
+      "design",
+      "security",
+      "support",
+      "growth",
+      "code",
+      "senior",
+      "reliability",
+      "health",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ]
+  },
+  "1128173": {
+    "id": "1128173",
+    "title": "Video Editor",
+    "company": "Tempo",
+    "location": "",
+    "salary": 1500,
+    "url": "https://remoteok.io/remote-jobs/1128173",
+    "source": "RemoteOK",
+    "posted": "2025-10-01T16:26:31.905722",
+    "tags": [
+      "design",
+      "software",
+      "video",
+      "content",
+      "marketing",
+      "digital nomad"
+    ]
   }
 }
