@@ -3274,5 +3274,28 @@
       "engineer",
       "full-time"
     ]
+  },
+  "1128501": {
+    "id": "1128501",
+    "title": "DevOps Engineer",
+    "company": "Nansen.ai",
+    "location": "Remote Americas",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1128501",
+    "source": "RemoteOK",
+    "posted": "2025-10-23T15:22:35.495489",
+    "tags": [
+      "system",
+      "security",
+      "code",
+      "devops",
+      "cloud",
+      "management",
+      "operations",
+      "analytics",
+      "engineer",
+      "engineering",
+      "linux"
+    ]
   }
 }
