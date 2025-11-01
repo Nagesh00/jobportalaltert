@@ -4061,5 +4061,29 @@
       "engineering",
       "digital nomad"
     ]
+  },
+  "1128743": {
+    "id": "1128743",
+    "title": "Senior Software Engineer",
+    "company": "Loancrate",
+    "location": "",
+    "salary": 10000,
+    "url": "https://remoteok.io/remote-jobs/1128743",
+    "source": "RemoteOK",
+    "posted": "2025-11-01T20:20:03.238360",
+    "tags": [
+      "backend",
+      "full stack",
+      "javascript",
+      "typescript",
+      "react",
+      "node",
+      "docker",
+      "graphql",
+      "postgres",
+      "aws",
+      "saas",
+      "senior"
+    ]
   }
 }
