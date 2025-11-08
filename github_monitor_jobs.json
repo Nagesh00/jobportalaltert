@@ -4727,5 +4727,130 @@
       "analytics",
       "engineer"
     ]
+  },
+  "1128897": {
+    "id": "1128897",
+    "title": "UX Researcher Mixed Methods",
+    "company": "Linda Werner & Associates",
+    "location": "Menlo Park",
+    "salary": 80000,
+    "url": "https://remoteok.io/remote-jobs/1128897",
+    "source": "RemoteOK",
+    "posted": "2025-11-08T01:38:35.447321",
+    "tags": [
+      "ux",
+      "design",
+      "testing",
+      "seo",
+      "lead",
+      "senior",
+      "digital nomad"
+    ]
+  },
+  "1128896": {
+    "id": "1128896",
+    "title": "Quality Assurance Analyst II",
+    "company": "Filevine",
+    "location": "United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1128896",
+    "source": "RemoteOK",
+    "posted": "2025-11-08T01:38:35.447372",
+    "tags": [
+      "analyst",
+      "software",
+      "testing",
+      "test",
+      "qa",
+      "api",
+      "junior",
+      "legal",
+      "full-time"
+    ]
+  },
+  "1128894": {
+    "id": "1128894",
+    "title": "Senior Javascript Fullstack Engineer",
+    "company": "Filevine",
+    "location": "United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1128894",
+    "source": "RemoteOK",
+    "posted": "2025-11-08T01:38:35.447452",
+    "tags": [
+      "design",
+      "system",
+      "technical",
+      "web",
+      "javascript",
+      "api",
+      "senior",
+      "legal",
+      "engineer",
+      "engineering",
+      "fullstack",
+      "full-time",
+      "digital nomad"
+    ]
+  },
+  "1128891": {
+    "id": "1128891",
+    "title": "Senior Data Analyst Supply Chain",
+    "company": "Spreetail",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1128891",
+    "source": "RemoteOK",
+    "posted": "2025-11-08T01:38:35.447535",
+    "tags": [
+      "analyst",
+      "senior",
+      "operational",
+      "analytics",
+      "ecommerce"
+    ]
+  },
+  "1128890": {
+    "id": "1128890",
+    "title": "Product Manager",
+    "company": "Crux",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1128890",
+    "source": "RemoteOK",
+    "posted": "2025-11-08T01:38:35.447630",
+    "tags": [
+      "manager",
+      "design",
+      "system",
+      "support",
+      "strategy",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1128888": {
+    "id": "1128888",
+    "title": "Executive Assistant & Customer Service Support A089",
+    "company": "Pearl",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1128888",
+    "source": "RemoteOK",
+    "posted": "2025-11-08T01:38:35.447788",
+    "tags": [
+      "assistant",
+      "support",
+      "software",
+      "growth",
+      "operations",
+      "operational",
+      "reliability",
+      "health",
+      "recruiting",
+      "recruitment",
+      "executive",
+      "full-time"
+    ]
   }
 }
