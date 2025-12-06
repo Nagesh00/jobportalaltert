@@ -5660,5 +5660,30 @@
       "backend",
       "php"
     ]
+  },
+  "1129121": {
+    "id": "1129121",
+    "title": "Software Engineer II",
+    "company": "Horace Mann",
+    "location": "Springfield, IL",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1129121",
+    "source": "RemoteOK",
+    "posted": "2025-12-06T16:26:06.170694",
+    "tags": [
+      "software",
+      "graphql",
+      "react.js",
+      "system",
+      "front-end",
+      "technical",
+      "support",
+      "code",
+      "devops",
+      "senior",
+      "junior",
+      "engineer",
+      "engineering"
+    ]
   }
 }
