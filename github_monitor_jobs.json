@@ -5862,5 +5862,59 @@
       "recruitment",
       "executive"
     ]
+  },
+  "1129187": {
+    "id": "1129187",
+    "title": "Software Engineer Rust Shopify",
+    "company": "ParcelHero",
+    "location": "Philippines",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129187",
+    "source": "RemoteOK",
+    "posted": "2025-12-13T08:48:48.512699",
+    "tags": [
+      "software",
+      "c#",
+      "f#",
+      "system",
+      "technical",
+      "testing",
+      "growth",
+      "code",
+      "voice",
+      "api",
+      "management",
+      "junior",
+      "engineer",
+      "engineering",
+      "shopify"
+    ]
+  },
+  "1129186": {
+    "id": "1129186",
+    "title": "Full Stack Software Engineer",
+    "company": "CompassX Group",
+    "location": "Remote  - CST Timezone",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129186",
+    "source": "RemoteOK",
+    "posted": "2025-12-13T08:48:48.512757",
+    "tags": [
+      "software",
+      "design",
+      "react",
+      "frontend",
+      "full-stack",
+      "architect",
+      "technical",
+      "support",
+      "growth",
+      "code",
+      "lead",
+      "junior",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ]
   }
 }
