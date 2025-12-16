@@ -6011,5 +6011,31 @@
       "engineering",
       "backend"
     ]
+  },
+  "1129230": {
+    "id": "1129230",
+    "title": "Staff Software Engineer",
+    "company": "NMI",
+    "location": "Remote, US",
+    "salary": 100000,
+    "url": "https://remoteok.io/remote-jobs/1129230",
+    "source": "RemoteOK",
+    "posted": "2025-12-16T19:20:41.646494",
+    "tags": [
+      "software",
+      "design",
+      "c#",
+      "technical",
+      "support",
+      "code",
+      "microsoft",
+      "junior",
+      "operational",
+      "reliability",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ]
   }
 }
