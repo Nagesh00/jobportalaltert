@@ -6121,5 +6121,98 @@
       "health",
       "non tech"
     ]
+  },
+  "1129265": {
+    "id": "1129265",
+    "title": "Distributed Systems Engineer",
+    "company": "LiveKit",
+    "location": "",
+    "salary": 120000,
+    "url": "https://remoteok.io/remote-jobs/1129265",
+    "source": "RemoteOK",
+    "posted": "2025-12-18T08:32:52.871558",
+    "tags": [
+      "design",
+      "technical",
+      "support",
+      "developer",
+      "cloud",
+      "operational",
+      "reliability",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1129263": {
+    "id": "1129263",
+    "title": "Analytics Engineer",
+    "company": "Socure",
+    "location": "Carson City",
+    "salary": 100000,
+    "url": "https://remoteok.io/remote-jobs/1129263",
+    "source": "RemoteOK",
+    "posted": "2025-12-18T08:32:52.871748",
+    "tags": [
+      "design",
+      "technical",
+      "support",
+      "management",
+      "analytics",
+      "reliability",
+      "recruiting",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1129262": {
+    "id": "1129262",
+    "title": "Security Compliance Specialist",
+    "company": "LiveKit",
+    "location": "",
+    "salary": 120000,
+    "url": "https://remoteok.io/remote-jobs/1129262",
+    "source": "RemoteOK",
+    "posted": "2025-12-18T08:32:52.871884",
+    "tags": [
+      "security",
+      "technical",
+      "support",
+      "software",
+      "code",
+      "management",
+      "lead",
+      "operations",
+      "operational",
+      "engineer",
+      "engineering",
+      "full-time"
+    ]
+  },
+  "1129258": {
+    "id": "1129258",
+    "title": "Senior Security Engineer",
+    "company": "Loft Orbital Solutions",
+    "location": "Golden, CO or San Francisco",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129258",
+    "source": "RemoteOK",
+    "posted": "2025-12-18T08:32:52.872324",
+    "tags": [
+      "security",
+      "design",
+      "software",
+      "growth",
+      "code",
+      "financial",
+      "senior",
+      "operations",
+      "health",
+      "healthcare",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
   }
 }
