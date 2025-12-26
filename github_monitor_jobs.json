@@ -6543,5 +6543,26 @@
       "engineering",
       "digital nomad"
     ]
+  },
+  "1129336": {
+    "id": "1129336",
+    "title": "Senior Frontend Engineer",
+    "company": "Arize AI",
+    "location": "Remote",
+    "salary": 100000,
+    "url": "https://remoteok.io/remote-jobs/1129336",
+    "source": "RemoteOK",
+    "posted": "2025-12-26T10:25:07.048952",
+    "tags": [
+      "frontend",
+      "react",
+      "typescript",
+      "api",
+      "senior",
+      "junior",
+      "engineer",
+      "engineering",
+      "backend"
+    ]
   }
 }
