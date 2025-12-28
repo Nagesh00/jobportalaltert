@@ -6612,5 +6612,57 @@
       "backend",
       "digital nomad"
     ]
+  },
+  "1129347": {
+    "id": "1129347",
+    "title": "Content Manager",
+    "company": "Terra",
+    "location": "U.S.",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129347",
+    "source": "RemoteOK",
+    "posted": "2025-12-28T02:03:02.366427",
+    "tags": [
+      "manager",
+      "design",
+      "writer",
+      "support",
+      "ux",
+      "seo",
+      "leader",
+      "strategy",
+      "lead",
+      "content",
+      "senior",
+      "marketing",
+      "health",
+      "healthcare",
+      "digital nomad"
+    ]
+  },
+  "1129344": {
+    "id": "1129344",
+    "title": "Cloud Full Stack Python Software Engineer US",
+    "company": "Railroad19, Inc",
+    "location": "U.S. Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129344",
+    "source": "RemoteOK",
+    "posted": "2025-12-28T02:03:02.366743",
+    "tags": [
+      "python",
+      "software",
+      "react",
+      "technical",
+      "code",
+      "serverless",
+      "cloud",
+      "nosql",
+      "angular",
+      "health",
+      "engineer",
+      "engineering",
+      "full-time"
+    ]
   }
 }
