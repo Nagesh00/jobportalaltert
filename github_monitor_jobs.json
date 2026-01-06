@@ -6852,5 +6852,49 @@
       "sales",
       "full-time"
     ]
+  },
+  "1129435": {
+    "id": "1129435",
+    "title": "Senior Backend PHP Software Engineer Inventory",
+    "company": "Cloudbeds",
+    "location": "Michigan",
+    "salary": 80000,
+    "url": "https://remoteok.io/remote-jobs/1129435",
+    "source": "RemoteOK",
+    "posted": "2026-01-06T18:35:20.060353",
+    "tags": [
+      "software",
+      "saas",
+      "amazon",
+      "web",
+      "php",
+      "strategy",
+      "senior",
+      "operations",
+      "engineer",
+      "backend"
+    ]
+  },
+  "1129434": {
+    "id": "1129434",
+    "title": "Senior Backend PHP Software Engineer Inventory",
+    "company": "Cloudbeds",
+    "location": "Massachusetts",
+    "salary": 80000,
+    "url": "https://remoteok.io/remote-jobs/1129434",
+    "source": "RemoteOK",
+    "posted": "2026-01-06T18:35:20.060390",
+    "tags": [
+      "software",
+      "saas",
+      "amazon",
+      "web",
+      "php",
+      "strategy",
+      "senior",
+      "operations",
+      "engineer",
+      "backend"
+    ]
   }
 }
