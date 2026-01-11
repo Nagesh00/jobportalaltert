@@ -7133,5 +7133,46 @@
       "senior",
       "engineer"
     ]
+  },
+  "1129507": {
+    "id": "1129507",
+    "title": "Staff DevOps Engineer",
+    "company": "Bugcrowd",
+    "location": "Remote - India",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129507",
+    "source": "RemoteOK",
+    "posted": "2026-01-11T22:44:07.232272",
+    "tags": [
+      "design",
+      "security",
+      "developer",
+      "software",
+      "devops",
+      "cloud",
+      "strategy",
+      "lead",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1129506": {
+    "id": "1129506",
+    "title": "Technical Support Engineer",
+    "company": "Ada",
+    "location": "British Columbia",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1129506",
+    "source": "RemoteOK",
+    "posted": "2026-01-11T22:44:07.232319",
+    "tags": [
+      "technical",
+      "support",
+      "growth",
+      "management",
+      "senior",
+      "engineer"
+    ]
   }
 }
