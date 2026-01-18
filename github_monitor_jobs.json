@@ -7497,5 +7497,23 @@
       "engineer",
       "full-time"
     ]
+  },
+  "1129608": {
+    "id": "1129608",
+    "title": "Software Engineer I",
+    "company": "Pattern Data",
+    "location": "US",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129608",
+    "source": "RemoteOK",
+    "posted": "2026-01-18T05:26:14.278832",
+    "tags": [
+      "software",
+      "cto",
+      "scala",
+      "senior",
+      "legal",
+      "engineer"
+    ]
   }
 }
