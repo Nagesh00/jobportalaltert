@@ -7515,5 +7515,26 @@
       "legal",
       "engineer"
     ]
+  },
+  "1129615": {
+    "id": "1129615",
+    "title": "Staff Software Engineer Cloud Infrastructure",
+    "company": "Tenstorrent",
+    "location": "United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129615",
+    "source": "RemoteOK",
+    "posted": "2026-01-18T20:44:41.816947",
+    "tags": [
+      "software",
+      "devops",
+      "cloud",
+      "operational",
+      "reliability",
+      "engineer",
+      "engineering",
+      "linux",
+      "backend"
+    ]
   }
 }
