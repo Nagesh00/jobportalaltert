@@ -7748,5 +7748,82 @@
       "engineer",
       "engineering"
     ]
+  },
+  "1129654": {
+    "id": "1129654",
+    "title": "Senior Product Marketing Manager",
+    "company": "GoodLeap",
+    "location": "Remote, US",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129654",
+    "source": "RemoteOK",
+    "posted": "2026-01-21T01:59:19.075749",
+    "tags": [
+      "manager",
+      "saas",
+      "training",
+      "supervisor",
+      "support",
+      "developer",
+      "software",
+      "financial",
+      "strategy",
+      "management",
+      "lead",
+      "senior",
+      "operational",
+      "marketer",
+      "marketing",
+      "sales",
+      "digital nomad"
+    ]
+  },
+  "1129653": {
+    "id": "1129653",
+    "title": "Senior Software Engineer Data",
+    "company": "Freshpaint",
+    "location": "",
+    "salary": 181000,
+    "url": "https://remoteok.io/remote-jobs/1129653",
+    "source": "RemoteOK",
+    "posted": "2026-01-21T01:59:19.075858",
+    "tags": [
+      "software",
+      "architect",
+      "technical",
+      "growth",
+      "code",
+      "web",
+      "manager",
+      "ads",
+      "strategy",
+      "senior",
+      "marketing",
+      "analytics",
+      "sales",
+      "reliability",
+      "go",
+      "health",
+      "healthcare",
+      "engineer",
+      "engineering",
+      "e-commerce"
+    ]
+  },
+  "1129650": {
+    "id": "1129650",
+    "title": "Senior Full Stack Software Engineer CRM",
+    "company": "Circle.so",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129650",
+    "source": "RemoteOK",
+    "posted": "2026-01-21T01:59:19.075944",
+    "tags": [
+      "software",
+      "full-stack",
+      "senior",
+      "engineer"
+    ]
   }
 }
