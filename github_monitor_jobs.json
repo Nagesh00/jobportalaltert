@@ -8157,5 +8157,53 @@
       "engineering",
       "digital nomad"
     ]
+  },
+  "1129719": {
+    "id": "1129719",
+    "title": "Full Stack Engineer",
+    "company": "Ubiminds",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129719",
+    "source": "RemoteOK",
+    "posted": "2026-01-24T01:52:39.596537",
+    "tags": [
+      "design",
+      "saas",
+      "system",
+      "frontend",
+      "support",
+      "software",
+      "code",
+      "devops",
+      "cloud",
+      "admin",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ]
+  },
+  "1129715": {
+    "id": "1129715",
+    "title": "Technical Customer Support Associate",
+    "company": "Narmi",
+    "location": "United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129715",
+    "source": "RemoteOK",
+    "posted": "2026-01-24T01:52:39.596700",
+    "tags": [
+      "saas",
+      "technical",
+      "support",
+      "growth",
+      "financial",
+      "fintech",
+      "banking",
+      "lead",
+      "go",
+      "engineering"
+    ]
   }
 }
