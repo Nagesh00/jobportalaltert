@@ -8639,5 +8639,21 @@
       "health",
       "recruiting"
     ]
+  },
+  "1129829": {
+    "id": "1129829",
+    "title": "Sr Staff AI Engineer",
+    "company": "BNSF Railway",
+    "location": "",
+    "salary": 160000,
+    "url": "https://remoteok.io/remote-jobs/1129829",
+    "source": "RemoteOK",
+    "posted": "2026-01-28T16:40:34.570392",
+    "tags": [
+      "other",
+      "design",
+      "ai",
+      "train"
+    ]
   }
 }
