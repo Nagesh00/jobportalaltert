@@ -8655,5 +8655,36 @@
       "ai",
       "train"
     ]
+  },
+  "1129835": {
+    "id": "1129835",
+    "title": "Platform & Enterprise Full Stack Sr Staff Software Engineer",
+    "company": "BNSF Railway",
+    "location": "",
+    "salary": 160000,
+    "url": "https://remoteok.io/remote-jobs/1129835",
+    "source": "RemoteOK",
+    "posted": "2026-01-28T17:34:01.532528",
+    "tags": [
+      "other",
+      "design",
+      "train",
+      "full stack"
+    ]
+  },
+  "1129834": {
+    "id": "1129834",
+    "title": "Platform & Enterprise Front End Sr Staff Software Engineer",
+    "company": "BNSF Railway",
+    "location": "",
+    "salary": 160000,
+    "url": "https://remoteok.io/remote-jobs/1129834",
+    "source": "RemoteOK",
+    "posted": "2026-01-28T17:34:01.532695",
+    "tags": [
+      "other",
+      "design",
+      "train"
+    ]
   }
 }
