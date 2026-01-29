@@ -8746,5 +8746,55 @@
       "backend",
       "digital nomad"
     ]
+  },
+  "1129853": {
+    "id": "1129853",
+    "title": "Manager User Group Program 11132",
+    "company": "Coupa Software, Inc.",
+    "location": "US Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129853",
+    "source": "RemoteOK",
+    "posted": "2026-01-29T09:06:37.733073",
+    "tags": [
+      "manager",
+      "saas",
+      "support",
+      "growth",
+      "code",
+      "leader",
+      "strategy",
+      "management",
+      "lead",
+      "content",
+      "senior",
+      "operations",
+      "operational",
+      "marketing",
+      "go",
+      "recruitment",
+      "executive"
+    ]
+  },
+  "1129851": {
+    "id": "1129851",
+    "title": "Security Engineer",
+    "company": "OpenRouter",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129851",
+    "source": "RemoteOK",
+    "posted": "2026-01-29T09:06:37.733275",
+    "tags": [
+      "security",
+      "technical",
+      "cloud",
+      "api",
+      "management",
+      "senior",
+      "operations",
+      "engineer",
+      "engineering"
+    ]
   }
 }
