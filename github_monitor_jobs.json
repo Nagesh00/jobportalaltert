@@ -8899,5 +8899,23 @@
       "marketing",
       "digital nomad"
     ]
+  },
+  "1129870": {
+    "id": "1129870",
+    "title": "SDE 1",
+    "company": "IN50 - Independent Technology India (IN50)",
+    "location": "IN.Bangalore.Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129870",
+    "source": "RemoteOK",
+    "posted": "2026-01-30T17:36:13.722887",
+    "tags": [
+      "software",
+      "testing",
+      "test",
+      "senior",
+      "telecom",
+      "legal"
+    ]
   }
 }
