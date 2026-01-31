@@ -8993,5 +8993,47 @@
       "senior",
       "executive"
     ]
+  },
+  "1129882": {
+    "id": "1129882",
+    "title": "Analytics Engineer",
+    "company": "Relay",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129882",
+    "source": "RemoteOK",
+    "posted": "2026-01-31T16:32:11.495961",
+    "tags": [
+      "technical",
+      "ux",
+      "operations",
+      "analytics",
+      "health",
+      "engineer",
+      "engineering"
+    ]
+  },
+  "1129880": {
+    "id": "1129880",
+    "title": "SDR Manager US",
+    "company": "UpGuard",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129880",
+    "source": "RemoteOK",
+    "posted": "2026-01-31T16:32:11.496086",
+    "tags": [
+      "manager",
+      "saas",
+      "security",
+      "technical",
+      "support",
+      "software",
+      "management",
+      "lead",
+      "operations",
+      "marketing",
+      "sales"
+    ]
   }
 }
