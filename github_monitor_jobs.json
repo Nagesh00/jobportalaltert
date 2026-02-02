@@ -9385,5 +9385,47 @@
       "operations",
       "operational"
     ]
+  },
+  "1129973": {
+    "id": "1129973",
+    "title": "Engineering Manager",
+    "company": "TPR Education, LLC",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129973",
+    "source": "RemoteOK",
+    "posted": "2026-02-02T14:11:44.202724",
+    "tags": [
+      "manager",
+      "students",
+      "technical",
+      "test",
+      "code",
+      "education",
+      "lead",
+      "engineering"
+    ]
+  },
+  "1129970": {
+    "id": "1129970",
+    "title": "Software QA Engineer",
+    "company": "Anduril Industries",
+    "location": "Lexington, Massachusetts",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129970",
+    "source": "RemoteOK",
+    "posted": "2026-02-02T14:11:44.202843",
+    "tags": [
+      "software",
+      "system",
+      "security",
+      "3d",
+      "testing",
+      "test",
+      "qa",
+      "git",
+      "engineer",
+      "linux"
+    ]
   }
 }
