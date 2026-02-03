@@ -9557,5 +9557,88 @@
       "engineering",
       "backend"
     ]
+  },
+  "1130004": {
+    "id": "1130004",
+    "title": "Associate Security Researcher",
+    "company": "Cobalt",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130004",
+    "source": "RemoteOK",
+    "posted": "2026-02-03T13:06:24.104856",
+    "tags": [
+      "security",
+      "sysadmin",
+      "technical",
+      "support",
+      "testing",
+      "growth",
+      "senior"
+    ]
+  },
+  "1130003": {
+    "id": "1130003",
+    "title": "Software Engineer II",
+    "company": "Noonlight",
+    "location": "Austin, Texas",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130003",
+    "source": "RemoteOK",
+    "posted": "2026-02-03T13:06:24.104878",
+    "tags": [
+      "software",
+      "design",
+      "react.js",
+      "security",
+      "full-stack",
+      "code",
+      "web",
+      "api",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1130000": {
+    "id": "1130000",
+    "title": "Senior Product Designer Ad Mission",
+    "company": "The New York Times",
+    "location": "New York, NY",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130000",
+    "source": "RemoteOK",
+    "posted": "2026-02-03T13:06:24.104954",
+    "tags": [
+      "design",
+      "designer",
+      "strategy",
+      "senior",
+      "digital nomad"
+    ]
+  },
+  "1129999": {
+    "id": "1129999",
+    "title": "Senior Software Engineer Frontend",
+    "company": "Sigma Computing",
+    "location": "San Francisco, CA",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1129999",
+    "source": "RemoteOK",
+    "posted": "2026-02-03T13:06:24.104970",
+    "tags": [
+      "frontend",
+      "software",
+      "design",
+      "front-end",
+      "technical",
+      "ux",
+      "typescript",
+      "senior",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ]
   }
 }
