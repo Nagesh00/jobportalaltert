@@ -9860,5 +9860,47 @@
       "operations",
       "healthcare"
     ]
+  },
+  "1130049": {
+    "id": "1130049",
+    "title": "Sales Solution Engineer",
+    "company": "FlowFuse",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130049",
+    "source": "RemoteOK",
+    "posted": "2026-02-04T16:08:41.529550",
+    "tags": [
+      "security",
+      "training",
+      "technical",
+      "lead",
+      "sales",
+      "engineer",
+      "engineering"
+    ]
+  },
+  "1130047": {
+    "id": "1130047",
+    "title": "Senior Python Software Engineer",
+    "company": "Bloomreach",
+    "location": "Slovakia",
+    "salary": 4000,
+    "url": "https://remoteok.io/remote-jobs/1130047",
+    "source": "RemoteOK",
+    "posted": "2026-02-04T16:08:41.529590",
+    "tags": [
+      "python",
+      "software",
+      "test",
+      "growth",
+      "financial",
+      "cloud",
+      "senior",
+      "analytics",
+      "engineer",
+      "engineering",
+      "backend"
+    ]
   }
 }
