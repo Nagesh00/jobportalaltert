@@ -10174,5 +10174,59 @@
       "backend",
       "full-time"
     ]
+  },
+  "1130098": {
+    "id": "1130098",
+    "title": "QA Analyst",
+    "company": "Proof of Play",
+    "location": "",
+    "salary": 5000,
+    "url": "https://remoteok.io/remote-jobs/1130098",
+    "source": "RemoteOK",
+    "posted": "2026-02-06T08:46:46.062131",
+    "tags": [
+      "analyst",
+      "jira",
+      "ios",
+      "crypto",
+      "game",
+      "support",
+      "software",
+      "testing",
+      "test",
+      "qa",
+      "mobile",
+      "content",
+      "go"
+    ]
+  },
+  "1130096": {
+    "id": "1130096",
+    "title": "Solutions Engineer",
+    "company": "Lumana",
+    "location": "",
+    "salary": 140000,
+    "url": "https://remoteok.io/remote-jobs/1130096",
+    "source": "RemoteOK",
+    "posted": "2026-02-06T08:46:46.062314",
+    "tags": [
+      "design",
+      "embedded",
+      "security",
+      "full-stack",
+      "technical",
+      "support",
+      "software",
+      "testing",
+      "voice",
+      "video",
+      "banking",
+      "leader",
+      "senior",
+      "sales",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
   }
 }
