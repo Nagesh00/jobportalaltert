@@ -10254,5 +10254,68 @@
       "engineer",
       "engineering"
     ]
+  },
+  "1130107": {
+    "id": "1130107",
+    "title": "Senior Full Stack Developer",
+    "company": "MicroVentures",
+    "location": "Texas",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130107",
+    "source": "RemoteOK",
+    "posted": "2026-02-07T02:11:41.032187",
+    "tags": [
+      "developer",
+      "saas",
+      "security",
+      "full-stack",
+      "technical",
+      "software",
+      "testing",
+      "code",
+      "travel",
+      "laravel",
+      "php",
+      "nosql",
+      "git",
+      "api",
+      "senior",
+      "junior",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1130105": {
+    "id": "1130105",
+    "title": "Tech Product Manager Data Plataform Products",
+    "company": "Neon Pagamentos",
+    "location": "Remoto",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130105",
+    "source": "RemoteOK",
+    "posted": "2026-02-07T02:11:41.032306",
+    "tags": [
+      "manager"
+    ]
+  },
+  "1130104": {
+    "id": "1130104",
+    "title": "Video Marketing Intern",
+    "company": "Omniscient",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130104",
+    "source": "RemoteOK",
+    "posted": "2026-02-07T02:11:41.032367",
+    "tags": [
+      "saas",
+      "growth",
+      "video",
+      "seo",
+      "content",
+      "senior",
+      "marketing",
+      "educational"
+    ]
   }
 }
