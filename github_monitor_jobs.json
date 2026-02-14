@@ -10987,5 +10987,72 @@
       "engineer",
       "engineering"
     ]
+  },
+  "1130252": {
+    "id": "1130252",
+    "title": "Director Community & Developer Advocacy",
+    "company": "Tines",
+    "location": "North America",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130252",
+    "source": "RemoteOK",
+    "posted": "2026-02-14T16:33:45.573976",
+    "tags": [
+      "developer",
+      "director",
+      "system",
+      "technical",
+      "support",
+      "growth",
+      "content",
+      "senior",
+      "marketing",
+      "digital nomad"
+    ]
+  },
+  "1130251": {
+    "id": "1130251",
+    "title": "Senior Software Engineer I Puppet",
+    "company": "Perforce",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130251",
+    "source": "RemoteOK",
+    "posted": "2026-02-14T16:33:45.574038",
+    "tags": [
+      "software",
+      "system",
+      "security",
+      "technical",
+      "support",
+      "code",
+      "scrum",
+      "manager",
+      "devops",
+      "java",
+      "git",
+      "ruby",
+      "management",
+      "senior",
+      "engineer"
+    ]
+  },
+  "1130249": {
+    "id": "1130249",
+    "title": "Founding Paralegal",
+    "company": "Eudia",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130249",
+    "source": "RemoteOK",
+    "posted": "2026-02-14T16:33:45.574098",
+    "tags": [
+      "security",
+      "support",
+      "growth",
+      "senior",
+      "operational",
+      "legal"
+    ]
   }
 }
