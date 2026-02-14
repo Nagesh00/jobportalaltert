@@ -10924,5 +10924,68 @@
       "operations",
       "engineering"
     ]
+  },
+  "1130247": {
+    "id": "1130247",
+    "title": "Application Engineer CNC & Sheet Metal",
+    "company": "Xometry",
+    "location": "Brazil",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130247",
+    "source": "RemoteOK",
+    "posted": "2026-02-14T02:13:02.774108",
+    "tags": [
+      "3d",
+      "technical",
+      "support",
+      "education",
+      "sales",
+      "engineer",
+      "engineering"
+    ]
+  },
+  "1130245": {
+    "id": "1130245",
+    "title": "Human Resources & Administrative Coordinator",
+    "company": "Ludia Consulting",
+    "location": "Chicago, IL",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130245",
+    "source": "RemoteOK",
+    "posted": "2026-02-14T02:13:02.774195",
+    "tags": [
+      "consulting",
+      "hr",
+      "coordinator",
+      "support",
+      "growth",
+      "financial",
+      "finance",
+      "microsoft",
+      "senior",
+      "operations",
+      "operational"
+    ]
+  },
+  "1130241": {
+    "id": "1130241",
+    "title": "Security Engineer",
+    "company": "PermitFlow",
+    "location": "New York City",
+    "salary": 175000,
+    "url": "https://remoteok.io/remote-jobs/1130241",
+    "source": "RemoteOK",
+    "posted": "2026-02-14T02:13:02.774392",
+    "tags": [
+      "security",
+      "frontend",
+      "architect",
+      "software",
+      "testing",
+      "cloud",
+      "management",
+      "engineer",
+      "engineering"
+    ]
   }
 }
