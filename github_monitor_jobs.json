@@ -11604,5 +11604,118 @@
       "engineer",
       "digital nomad"
     ]
+  },
+  "1130435": {
+    "id": "1130435",
+    "title": "Job 27573 Mid Data Developer Brasil",
+    "company": "CI&amp;T",
+    "location": "Brazil",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130435",
+    "source": "RemoteOK",
+    "posted": "2026-02-20T02:23:32.804041",
+    "tags": [
+      "developer",
+      "cloud",
+      "digital nomad"
+    ]
+  },
+  "1130434": {
+    "id": "1130434",
+    "title": "Job 27611 MidSenior Data Developer Brasil",
+    "company": "CI&amp;T",
+    "location": "Brazil",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130434",
+    "source": "RemoteOK",
+    "posted": "2026-02-20T02:23:32.804104",
+    "tags": [
+      "developer",
+      "design",
+      "unity",
+      "digital nomad"
+    ]
+  },
+  "1130433": {
+    "id": "1130433",
+    "title": "Job 27602 Mid level Developer NodeJS Brazil",
+    "company": "CI&amp;T",
+    "location": "Brazil",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130433",
+    "source": "RemoteOK",
+    "posted": "2026-02-20T02:23:32.804156",
+    "tags": [
+      "developer",
+      "javascript",
+      "nodejs",
+      "cloud",
+      "api",
+      "digital nomad"
+    ]
+  },
+  "1130424": {
+    "id": "1130424",
+    "title": "Director Global Consulting & System Integrator Partnerships",
+    "company": "Ada",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130424",
+    "source": "RemoteOK",
+    "posted": "2026-02-20T02:23:32.804628",
+    "tags": [
+      "system",
+      "consulting",
+      "director",
+      "growth",
+      "management",
+      "lead"
+    ]
+  },
+  "1130415": {
+    "id": "1130415",
+    "title": "Senior Software Engineer Data Observability",
+    "company": "DataHub",
+    "location": "Palo Alto",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130415",
+    "source": "RemoteOK",
+    "posted": "2026-02-20T02:23:32.804938",
+    "tags": [
+      "software",
+      "design",
+      "saas",
+      "system",
+      "architect",
+      "technical",
+      "cloud",
+      "lead",
+      "senior",
+      "operational",
+      "reliability",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1130408": {
+    "id": "1130408",
+    "title": "Senior Technical Consultant Charles River Everywhere",
+    "company": "FormativGroup",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130408",
+    "source": "RemoteOK",
+    "posted": "2026-02-20T02:23:32.805288",
+    "tags": [
+      "consultant",
+      "system",
+      "technical",
+      "support",
+      "management",
+      "senior",
+      "operations",
+      "operational"
+    ]
   }
 }
