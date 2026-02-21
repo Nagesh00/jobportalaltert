@@ -11792,5 +11792,72 @@
       "health",
       "healthcare"
     ]
+  },
+  "1130474": {
+    "id": "1130474",
+    "title": "Senior People Operations Partner",
+    "company": "Adyen",
+    "location": "San Francisco",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130474",
+    "source": "RemoteOK",
+    "posted": "2026-02-21T16:32:59.923030",
+    "tags": [
+      "design",
+      "hr",
+      "system",
+      "technical",
+      "support",
+      "growth",
+      "management",
+      "lead",
+      "senior",
+      "operations",
+      "operational",
+      "analytics",
+      "digital nomad"
+    ]
+  },
+  "1130471": {
+    "id": "1130471",
+    "title": "Engineer",
+    "company": "ScienceLogic",
+    "location": "Reston, VA",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130471",
+    "source": "RemoteOK",
+    "posted": "2026-02-21T16:32:59.923135",
+    "tags": [
+      "developer",
+      "software",
+      "testing",
+      "test",
+      "cloud",
+      "senior",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1130469": {
+    "id": "1130469",
+    "title": "College Admissions Counselor",
+    "company": "Empowerly",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130469",
+    "source": "RemoteOK",
+    "posted": "2026-02-21T16:32:59.923234",
+    "tags": [
+      "students",
+      "support",
+      "testing",
+      "scrum",
+      "financial",
+      "education",
+      "internship",
+      "part-time",
+      "non tech"
+    ]
   }
 }
