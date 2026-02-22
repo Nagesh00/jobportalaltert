@@ -11880,5 +11880,29 @@
       "sales",
       "non tech"
     ]
+  },
+  "1130489": {
+    "id": "1130489",
+    "title": "Talent Acquisition Partner",
+    "company": "vCluster Labs",
+    "location": "Munich",
+    "salary": 90000,
+    "url": "https://remoteok.io/remote-jobs/1130489",
+    "source": "RemoteOK",
+    "posted": "2026-02-22T08:35:54.541535",
+    "tags": [
+      "consultant",
+      "architect",
+      "technical",
+      "support",
+      "developer",
+      "investor",
+      "strategy",
+      "analytics",
+      "health",
+      "recruiting",
+      "engineering",
+      "digital nomad"
+    ]
   }
 }
