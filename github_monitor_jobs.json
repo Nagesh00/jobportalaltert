@@ -11924,5 +11924,36 @@
       "health",
       "non tech"
     ]
+  },
+  "1130499": {
+    "id": "1130499",
+    "title": "Dentist",
+    "company": "Akicita Federal, LLC",
+    "location": "Ogema,MN",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130499",
+    "source": "RemoteOK",
+    "posted": "2026-02-23T17:41:11.242763",
+    "tags": [
+      "support",
+      "travel",
+      "health",
+      "non tech"
+    ]
+  },
+  "1130498": {
+    "id": "1130498",
+    "title": "Senior Solutions Engineer North East",
+    "company": "Okta, Inc.",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130498",
+    "source": "RemoteOK",
+    "posted": "2026-02-23T17:41:11.242792",
+    "tags": [
+      "security",
+      "senior",
+      "engineer"
+    ]
   }
 }
