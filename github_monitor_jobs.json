@@ -12006,5 +12006,39 @@
       "engineering",
       "digital nomad"
     ]
+  },
+  "1130524": {
+    "id": "1130524",
+    "title": "Subtitle Localization Specialist",
+    "company": "TSMG",
+    "location": "Any city",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130524",
+    "source": "RemoteOK",
+    "posted": "2026-02-25T16:05:34.593834",
+    "tags": [
+      "technical",
+      "content"
+    ]
+  },
+  "1130523": {
+    "id": "1130523",
+    "title": "Senior Product Manager",
+    "company": "INFUSE",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130523",
+    "source": "RemoteOK",
+    "posted": "2026-02-25T16:05:34.593871",
+    "tags": [
+      "manager",
+      "security",
+      "test",
+      "video",
+      "lead",
+      "senior",
+      "recruiting",
+      "non tech"
+    ]
   }
 }
