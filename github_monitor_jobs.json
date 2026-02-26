@@ -12073,5 +12073,22 @@
       "technical",
       "backend"
     ]
+  },
+  "1130537": {
+    "id": "1130537",
+    "title": "Senior Database Reliability Engineer",
+    "company": "Okta, Inc.",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130537",
+    "source": "RemoteOK",
+    "posted": "2026-02-26T09:12:12.409368",
+    "tags": [
+      "security",
+      "postgresql",
+      "senior",
+      "reliability",
+      "engineer"
+    ]
   }
 }
