@@ -12207,5 +12207,46 @@
       "sales",
       "engineer"
     ]
+  },
+  "1130577": {
+    "id": "1130577",
+    "title": "Junior Live Ops Game Designer",
+    "company": "A Thinking Ape",
+    "location": "BC",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130577",
+    "source": "RemoteOK",
+    "posted": "2026-03-01T21:26:10.231561",
+    "tags": [
+      "game",
+      "design",
+      "designer",
+      "mobile",
+      "strategy",
+      "content",
+      "senior",
+      "junior",
+      "digital nomad"
+    ]
+  },
+  "1130576": {
+    "id": "1130576",
+    "title": "Senior Game Designer",
+    "company": "Mob Entertainment",
+    "location": "United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130576",
+    "source": "RemoteOK",
+    "posted": "2026-03-01T21:26:10.231598",
+    "tags": [
+      "game",
+      "design",
+      "designer",
+      "technical",
+      "lead",
+      "content",
+      "senior",
+      "digital nomad"
+    ]
   }
 }
