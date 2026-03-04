@@ -12265,5 +12265,47 @@
       "engineer",
       "linux"
     ]
+  },
+  "1130614": {
+    "id": "1130614",
+    "title": "Senior Frontend Engineer",
+    "company": "Level",
+    "location": "",
+    "salary": 180000,
+    "url": "https://remoteok.io/remote-jobs/1130614",
+    "source": "RemoteOK",
+    "posted": "2026-03-04T18:03:54.296137",
+    "tags": [
+      "engineer",
+      "dev",
+      "javascript",
+      "react",
+      "typescript",
+      "graphql",
+      "ai",
+      "front end"
+    ]
+  },
+  "1130612": {
+    "id": "1130612",
+    "title": "Senior Engineering Manager Data Pipeline",
+    "company": "Bloomreach",
+    "location": "Slovakia",
+    "salary": 6000,
+    "url": "https://remoteok.io/remote-jobs/1130612",
+    "source": "RemoteOK",
+    "posted": "2026-03-04T18:03:54.296269",
+    "tags": [
+      "manager",
+      "system",
+      "growth",
+      "qa",
+      "financial",
+      "senior",
+      "engineer",
+      "engineering",
+      "e-commerce",
+      "full-time"
+    ]
   }
 }
