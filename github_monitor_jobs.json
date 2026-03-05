@@ -12328,5 +12328,47 @@
       "senior",
       "digital nomad"
     ]
+  },
+  "1130632": {
+    "id": "1130632",
+    "title": "Growth Customer Success Lead",
+    "company": "Embrace",
+    "location": "United States - East Coast",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130632",
+    "source": "RemoteOK",
+    "posted": "2026-03-05T02:23:27.029395",
+    "tags": [
+      "growth",
+      "design",
+      "frontend",
+      "architect",
+      "technical",
+      "web",
+      "mobile",
+      "leader",
+      "lead",
+      "executive",
+      "digital nomad"
+    ]
+  },
+  "1130626": {
+    "id": "1130626",
+    "title": "Senior Cloud Engineer",
+    "company": "Kunai",
+    "location": "United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130626",
+    "source": "RemoteOK",
+    "posted": "2026-03-05T02:23:27.029698",
+    "tags": [
+      "full-stack",
+      "devops",
+      "financial",
+      "fintech",
+      "cloud",
+      "senior",
+      "engineer"
+    ]
   }
 }
