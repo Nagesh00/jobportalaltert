@@ -12552,5 +12552,30 @@
       "engineering",
       "digital nomad"
     ]
+  },
+  "1130690": {
+    "id": "1130690",
+    "title": "Senior Python Backend Engineer Mission Critical",
+    "company": "Amstar Curacao",
+    "location": "",
+    "salary": 30000,
+    "url": "https://remoteok.io/remote-jobs/1130690",
+    "source": "RemoteOK",
+    "posted": "2026-03-10T11:34:55.414379",
+    "tags": [
+      "dev",
+      "python",
+      "fastapi",
+      "sql",
+      "linux",
+      "pytest",
+      "nginx",
+      "apache",
+      "javascript",
+      "react",
+      "vs code",
+      "remote working",
+      "github actions"
+    ]
   }
 }
