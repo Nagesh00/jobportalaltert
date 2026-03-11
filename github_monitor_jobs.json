@@ -12608,5 +12608,57 @@
       "engineer",
       "digital nomad"
     ]
+  },
+  "1130701": {
+    "id": "1130701",
+    "title": "Director Product Management",
+    "company": "OraSure Technologies Inc.",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130701",
+    "source": "RemoteOK",
+    "posted": "2026-03-11T02:11:33.310094",
+    "tags": [
+      "director",
+      "training",
+      "consult",
+      "support",
+      "growth",
+      "travel",
+      "voice",
+      "financial",
+      "c",
+      "leader",
+      "strategy",
+      "management",
+      "lead",
+      "senior",
+      "marketing",
+      "sales",
+      "health",
+      "recruitment",
+      "executive",
+      "full-time"
+    ]
+  },
+  "1130700": {
+    "id": "1130700",
+    "title": "Senior Configuration Analyst",
+    "company": "Gravie",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130700",
+    "source": "RemoteOK",
+    "posted": "2026-03-11T02:11:33.310139",
+    "tags": [
+      "analyst",
+      "support",
+      "testing",
+      "leader",
+      "senior",
+      "health",
+      "healthcare",
+      "non tech"
+    ]
   }
 }
