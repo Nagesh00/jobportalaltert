@@ -12660,5 +12660,27 @@
       "healthcare",
       "non tech"
     ]
+  },
+  "1130708": {
+    "id": "1130708",
+    "title": "Journeyperson Electrician",
+    "company": "Rising Edge Group",
+    "location": "Halifax",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130708",
+    "source": "RemoteOK",
+    "posted": "2026-03-11T08:46:25.864251",
+    "tags": [
+      "training",
+      "technical",
+      "testing",
+      "test",
+      "code",
+      "travel",
+      "microsoft",
+      "senior",
+      "legal",
+      "health"
+    ]
   }
 }
