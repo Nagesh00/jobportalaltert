@@ -12714,5 +12714,23 @@
       "shopify",
       "non tech"
     ]
+  },
+  "1130725": {
+    "id": "1130725",
+    "title": "Infrastructure Manager",
+    "company": "Andromeda Cluster",
+    "location": "San Francisco",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130725",
+    "source": "RemoteOK",
+    "posted": "2026-03-12T16:59:56.284702",
+    "tags": [
+      "manager",
+      "training",
+      "technical",
+      "cloud",
+      "strategy",
+      "sales"
+    ]
   }
 }
