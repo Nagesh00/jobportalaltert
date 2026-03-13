@@ -12761,5 +12761,46 @@
       "engineering",
       "apache"
     ]
+  },
+  "1130739": {
+    "id": "1130739",
+    "title": "CFO",
+    "company": "Marathon Talent",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130739",
+    "source": "RemoteOK",
+    "posted": "2026-03-13T08:43:23.055541",
+    "tags": [
+      "cfo",
+      "support",
+      "software",
+      "accounting",
+      "financial",
+      "finance",
+      "api",
+      "management",
+      "lead",
+      "senior",
+      "operations",
+      "legal"
+    ]
+  },
+  "1130737": {
+    "id": "1130737",
+    "title": "UK Support Specialist",
+    "company": "Substack",
+    "location": "London",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130737",
+    "source": "RemoteOK",
+    "posted": "2026-03-13T08:43:23.055634",
+    "tags": [
+      "technical",
+      "support",
+      "content",
+      "operations",
+      "recruitment"
+    ]
   }
 }
