@@ -12827,5 +12827,40 @@
       "engineer",
       "digital nomad"
     ]
+  },
+  "1130747": {
+    "id": "1130747",
+    "title": "Senior IT Project Manager",
+    "company": "Precision Medicine Group",
+    "location": "Remote, United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130747",
+    "source": "RemoteOK",
+    "posted": "2026-03-13T20:37:55.564102",
+    "tags": [
+      "manager",
+      "design",
+      "training",
+      "education",
+      "senior",
+      "executive",
+      "digital nomad"
+    ]
+  },
+  "1130746": {
+    "id": "1130746",
+    "title": "Technical Product Manager",
+    "company": "LaunchBrightly",
+    "location": "",
+    "salary": 40000,
+    "url": "https://remoteok.io/remote-jobs/1130746",
+    "source": "RemoteOK",
+    "posted": "2026-03-13T20:37:55.564226",
+    "tags": [
+      "technical",
+      "dev",
+      "engineer",
+      "quality assurance"
+    ]
   }
 }
