@@ -13117,5 +13117,44 @@
       "engineering",
       "digital nomad"
     ]
+  },
+  "1130795": {
+    "id": "1130795",
+    "title": "Senior Security Engineer",
+    "company": "Loancrate",
+    "location": "",
+    "salary": 10000,
+    "url": "https://remoteok.io/remote-jobs/1130795",
+    "source": "RemoteOK",
+    "posted": "2026-03-17T15:03:45.173144",
+    "tags": [
+      "infosec",
+      "terraform",
+      "docker",
+      "postgres",
+      "javascript",
+      "typescript"
+    ]
+  },
+  "1130794": {
+    "id": "1130794",
+    "title": "Senior Software Engineer",
+    "company": "Loancrate",
+    "location": "",
+    "salary": 10000,
+    "url": "https://remoteok.io/remote-jobs/1130794",
+    "source": "RemoteOK",
+    "posted": "2026-03-17T15:03:45.173207",
+    "tags": [
+      "full stack",
+      "javascript",
+      "react",
+      "node",
+      "docker",
+      "typescript",
+      "graphql",
+      "postgres",
+      "aws"
+    ]
   }
 }
