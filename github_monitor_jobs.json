@@ -13177,5 +13177,23 @@
       "pulumi",
       "docker"
     ]
+  },
+  "1130798": {
+    "id": "1130798",
+    "title": "Senior Design Engineer",
+    "company": "Loancrate",
+    "location": "",
+    "salary": 10000,
+    "url": "https://remoteok.io/remote-jobs/1130798",
+    "source": "RemoteOK",
+    "posted": "2026-03-17T19:16:10.180720",
+    "tags": [
+      "javascript",
+      "react",
+      "typescript",
+      "figma",
+      "ai",
+      "design"
+    ]
   }
 }
