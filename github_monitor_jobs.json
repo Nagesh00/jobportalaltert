@@ -13156,5 +13156,26 @@
       "postgres",
       "aws"
     ]
+  },
+  "1130797": {
+    "id": "1130797",
+    "title": "Senior Platform Engineer",
+    "company": "Loancrate",
+    "location": "",
+    "salary": 10000,
+    "url": "https://remoteok.io/remote-jobs/1130797",
+    "source": "RemoteOK",
+    "posted": "2026-03-17T17:59:45.685557",
+    "tags": [
+      "aws",
+      "terraform",
+      "dev",
+      "javascript",
+      "typescript",
+      "postgres",
+      "api",
+      "pulumi",
+      "docker"
+    ]
   }
 }
