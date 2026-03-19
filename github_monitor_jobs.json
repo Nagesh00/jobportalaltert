@@ -13222,5 +13222,31 @@
       "backend",
       "digital nomad"
     ]
+  },
+  "1130817": {
+    "id": "1130817",
+    "title": "Software Engineer Reliability",
+    "company": "OpenAI",
+    "location": "San Francisco",
+    "salary": 230000,
+    "url": "https://remoteok.io/remote-jobs/1130817",
+    "source": "RemoteOK",
+    "posted": "2026-03-19T08:47:24.479877",
+    "tags": [
+      "software",
+      "design",
+      "grafana",
+      "system",
+      "security",
+      "support",
+      "testing",
+      "code",
+      "cloud",
+      "management",
+      "reliability",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
   }
 }
