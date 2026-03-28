@@ -13513,5 +13513,62 @@
       "recruiting",
       "recruitment"
     ]
+  },
+  "1130909": {
+    "id": "1130909",
+    "title": "Senior Software Engineer C++ Windows SDK WIN32 API",
+    "company": "Ivanti",
+    "location": "Hyderabad",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130909",
+    "source": "RemoteOK",
+    "posted": "2026-03-28T17:31:36.167917",
+    "tags": [
+      "software",
+      "design",
+      "saas",
+      "security",
+      "technical",
+      "support",
+      "c++",
+      "cloud",
+      "api",
+      "microsoft",
+      "management",
+      "lead",
+      "senior",
+      "reliability",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1130908": {
+    "id": "1130908",
+    "title": "Senior Backend Engineer Integrations",
+    "company": "Arbiter AI",
+    "location": "New York City",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130908",
+    "source": "RemoteOK",
+    "posted": "2026-03-28T17:31:36.167953",
+    "tags": [
+      "design",
+      "system",
+      "python",
+      "technical",
+      "support",
+      "financial",
+      "cloud",
+      "api",
+      "senior",
+      "operational",
+      "health",
+      "healthcare",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ]
   }
 }
