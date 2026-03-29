@@ -13617,5 +13617,108 @@
       "full-time",
       "non tech"
     ]
+  },
+  "1130929": {
+    "id": "1130929",
+    "title": "Clinical Psychologist",
+    "company": "LifeStance Health",
+    "location": "Crofton, MD",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130929",
+    "source": "RemoteOK",
+    "posted": "2026-03-29T17:33:50.807751",
+    "tags": [
+      "adult",
+      "lead",
+      "medical",
+      "health",
+      "healthcare",
+      "non tech"
+    ]
+  },
+  "1130927": {
+    "id": "1130927",
+    "title": "Manager of Revenue Operations",
+    "company": "LatamCent",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130927",
+    "source": "RemoteOK",
+    "posted": "2026-03-29T17:33:50.807871",
+    "tags": [
+      "manager",
+      "design",
+      "technical",
+      "support",
+      "growth",
+      "management",
+      "lead",
+      "operations",
+      "operational",
+      "marketing",
+      "sales",
+      "digital nomad"
+    ]
+  },
+  "1130926": {
+    "id": "1130926",
+    "title": "Product Security Manager",
+    "company": "MoonPay",
+    "location": "United States (East Coast Time Zone) - Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130926",
+    "source": "RemoteOK",
+    "posted": "2026-03-29T17:33:50.807989",
+    "tags": [
+      "security",
+      "manager",
+      "design",
+      "web3",
+      "crypto",
+      "system",
+      "training",
+      "technical",
+      "support",
+      "software",
+      "testing",
+      "code",
+      "voice",
+      "financial",
+      "serverless",
+      "cloud",
+      "leader",
+      "management",
+      "lead",
+      "operations",
+      "healthcare",
+      "engineering",
+      "digital nomad"
+    ]
+  },
+  "1130924": {
+    "id": "1130924",
+    "title": "Staff Machine Learning Engineer",
+    "company": "Fullscript",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130924",
+    "source": "RemoteOK",
+    "posted": "2026-03-29T17:33:50.808232",
+    "tags": [
+      "design",
+      "system",
+      "python",
+      "technical",
+      "support",
+      "code",
+      "senior",
+      "go",
+      "health",
+      "healthcare",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ]
   }
 }
