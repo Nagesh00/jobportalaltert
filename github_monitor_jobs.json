@@ -13720,5 +13720,51 @@
       "backend",
       "digital nomad"
     ]
+  },
+  "1130935": {
+    "id": "1130935",
+    "title": "Customer Program Manager",
+    "company": "Nexxa.AI",
+    "location": "Sunnyvale",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130935",
+    "source": "RemoteOK",
+    "posted": "2026-04-01T02:49:54.665364",
+    "tags": [
+      "manager",
+      "jira",
+      "training",
+      "consulting",
+      "cto",
+      "technical",
+      "qa",
+      "management",
+      "operations",
+      "operational",
+      "engineering"
+    ]
+  },
+  "1130932": {
+    "id": "1130932",
+    "title": "Software Engineer",
+    "company": "Clover Health",
+    "location": "USA",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1130932",
+    "source": "RemoteOK",
+    "posted": "2026-04-01T02:49:54.665439",
+    "tags": [
+      "software",
+      "design",
+      "financial",
+      "cloud",
+      "management",
+      "operational",
+      "medical",
+      "health",
+      "healthcare",
+      "engineer",
+      "digital nomad"
+    ]
   }
 }
