@@ -13893,5 +13893,44 @@
       "operations",
       "healthcare"
     ]
+  },
+  "1130979": {
+    "id": "1130979",
+    "title": "Intermediate Full Stack Engineer",
+    "company": "Runn",
+    "location": "",
+    "salary": 70000,
+    "url": "https://remoteok.io/remote-jobs/1130979",
+    "source": "RemoteOK",
+    "posted": "2026-04-03T09:28:58.961013",
+    "tags": [
+      "technical",
+      "engineer",
+      "dev",
+      "full time",
+      "saas",
+      "web dev",
+      "front end"
+    ]
+  },
+  "1130978": {
+    "id": "1130978",
+    "title": "Senior Full Stack Engineer",
+    "company": "Runn",
+    "location": "",
+    "salary": 120000,
+    "url": "https://remoteok.io/remote-jobs/1130978",
+    "source": "RemoteOK",
+    "posted": "2026-04-03T09:28:58.961116",
+    "tags": [
+      "technical",
+      "engineer",
+      "senior",
+      "dev",
+      "full time",
+      "saas",
+      "web dev",
+      "front end"
+    ]
   }
 }
