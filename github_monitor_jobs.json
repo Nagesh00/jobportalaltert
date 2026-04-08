@@ -13986,5 +13986,39 @@
       "legal",
       "non tech"
     ]
+  },
+  "1131020": {
+    "id": "1131020",
+    "title": "User Acquisition Specialist",
+    "company": "Hyperlab",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131020",
+    "source": "RemoteOK",
+    "posted": "2026-04-08T17:40:39.904732",
+    "tags": [
+      "game",
+      "gaming",
+      "technical",
+      "growth",
+      "mobile",
+      "management",
+      "marketing",
+      "health",
+      "recruitment"
+    ]
+  },
+  "1131019": {
+    "id": "1131019",
+    "title": "Senior front end developer",
+    "company": "Expatfile.tax",
+    "location": "",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1131019",
+    "source": "RemoteOK",
+    "posted": "2026-04-08T17:40:39.904793",
+    "tags": [
+      "front end"
+    ]
   }
 }
