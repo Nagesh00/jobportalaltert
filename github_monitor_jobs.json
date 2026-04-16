@@ -14429,5 +14429,31 @@
       "healthcare",
       "executive"
     ]
+  },
+  "1131116": {
+    "id": "1131116",
+    "title": "Software Engineer Payment Operations",
+    "company": "Wingspan",
+    "location": "Warsaw",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131116",
+    "source": "RemoteOK",
+    "posted": "2026-04-16T00:06:34.738914",
+    "tags": [
+      "software",
+      "growth",
+      "code",
+      "payroll",
+      "finance",
+      "bank",
+      "node.js",
+      "operations",
+      "operational",
+      "reliability",
+      "health",
+      "engineer",
+      "engineering",
+      "backend"
+    ]
   }
 }
