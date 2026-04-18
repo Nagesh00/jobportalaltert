@@ -14639,5 +14639,104 @@
       "senior",
       "engineering"
     ]
+  },
+  "1131190": {
+    "id": "1131190",
+    "title": "NEOWIZ Santa Monica Localization Manager",
+    "company": "Neowiz",
+    "location": "NEOWIZ SANTA MONICA",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131190",
+    "source": "RemoteOK",
+    "posted": "2026-04-18T09:01:48.140155",
+    "tags": [
+      "manager",
+      "game",
+      "support",
+      "voice",
+      "strategy",
+      "management",
+      "content",
+      "operational",
+      "marketing",
+      "non tech"
+    ]
+  },
+  "1131188": {
+    "id": "1131188",
+    "title": "AI Senior Fullstack Engineer",
+    "company": "Contentsquare",
+    "location": "Germany",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131188",
+    "source": "RemoteOK",
+    "posted": "2026-04-18T09:01:48.140412",
+    "tags": [
+      "front-end",
+      "support",
+      "software",
+      "web",
+      "leader",
+      "senior",
+      "analytics",
+      "engineer",
+      "engineering",
+      "recruitment",
+      "fullstack",
+      "full-time"
+    ]
+  },
+  "1131187": {
+    "id": "1131187",
+    "title": "Sales Development Representative",
+    "company": "Jeeves",
+    "location": "Argentina",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131187",
+    "source": "RemoteOK",
+    "posted": "2026-04-18T09:01:48.140523",
+    "tags": [
+      "system",
+      "training",
+      "software",
+      "financial",
+      "finance",
+      "fintech",
+      "management",
+      "lead",
+      "content",
+      "marketing",
+      "sales",
+      "full-time"
+    ]
+  },
+  "1131185": {
+    "id": "1131185",
+    "title": "Backend Engineer Rome",
+    "company": "Air Apps",
+    "location": "Rome",
+    "salary": 52000,
+    "url": "https://remoteok.io/remote-jobs/1131185",
+    "source": "RemoteOK",
+    "posted": "2026-04-18T09:01:48.140807",
+    "tags": [
+      "design",
+      "graphql",
+      "frontend",
+      "support",
+      "software",
+      "testing",
+      "code",
+      "financial",
+      "cloud",
+      "git",
+      "operations",
+      "reliability",
+      "health",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ]
   }
 }
