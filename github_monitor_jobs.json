@@ -14593,5 +14593,51 @@
       "ios",
       "android"
     ]
+  },
+  "1131178": {
+    "id": "1131178",
+    "title": "Technical Support Manager",
+    "company": "Promenade",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131178",
+    "source": "RemoteOK",
+    "posted": "2026-04-18T02:38:18.744428",
+    "tags": [
+      "manager",
+      "saas",
+      "technical",
+      "support",
+      "software",
+      "voice",
+      "management",
+      "lead",
+      "senior",
+      "operations",
+      "operational",
+      "excel",
+      "engineering"
+    ]
+  },
+  "1131174": {
+    "id": "1131174",
+    "title": "Engineering Manager",
+    "company": "Calendly",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131174",
+    "source": "RemoteOK",
+    "posted": "2026-04-18T02:38:18.744677",
+    "tags": [
+      "manager",
+      "technical",
+      "software",
+      "growth",
+      "director",
+      "api",
+      "leader",
+      "senior",
+      "engineering"
+    ]
   }
 }
