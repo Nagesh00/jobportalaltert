@@ -14882,5 +14882,16 @@
       "full-time",
       "non tech"
     ]
+  },
+  "reed_56804787": {
+    "id": "reed_56804787",
+    "title": "Test Automation Lead",
+    "company": "Howdens Joinery",
+    "location": "Hertfordshire",
+    "salary": "Competitive",
+    "url": "https://www.reed.co.uk/jobs/test-automation-lead/56804787",
+    "source": "Reed.co.uk",
+    "posted": "2026-04-20T15:16:54.442721",
+    "description": "Howdens are looking for an experienced Test Automation Lead to join our growing core systems team at Howdens. In this role you will lead a team of automation specialists, develop our automation toolin..."
   }
 }
