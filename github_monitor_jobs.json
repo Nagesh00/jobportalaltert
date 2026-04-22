@@ -14983,5 +14983,55 @@
       "health",
       "healthcare"
     ]
+  },
+  "1131240": {
+    "id": "1131240",
+    "title": "Software Engineer Identity & Access",
+    "company": "Patreon",
+    "location": "",
+    "salary": 189000,
+    "url": "https://remoteok.io/remote-jobs/1131240",
+    "source": "RemoteOK",
+    "posted": "2026-04-22T10:00:49.551487",
+    "tags": [
+      "software",
+      "security",
+      "python",
+      "support",
+      "testing",
+      "growth",
+      "code",
+      "senior",
+      "reliability",
+      "engineer",
+      "engineering"
+    ]
+  },
+  "1131239": {
+    "id": "1131239",
+    "title": "Technical Implementations Lead US",
+    "company": "Smile Digital Health",
+    "location": "Remote US",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131239",
+    "source": "RemoteOK",
+    "posted": "2026-04-22T10:00:49.551559",
+    "tags": [
+      "system",
+      "security",
+      "python",
+      "technical",
+      "support",
+      "software",
+      "javascript",
+      "java",
+      "cloud",
+      "management",
+      "lead",
+      "medical",
+      "health",
+      "healthcare",
+      "engineering"
+    ]
   }
 }
