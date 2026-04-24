@@ -15157,5 +15157,85 @@
       "healthcare",
       "engineering"
     ]
+  },
+  "1131284": {
+    "id": "1131284",
+    "title": "VP Creative Director",
+    "company": "Noodle",
+    "location": "Remote, United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131284",
+    "source": "RemoteOK",
+    "posted": "2026-04-24T02:51:38.646885",
+    "tags": [
+      "director",
+      "design",
+      "support",
+      "web",
+      "travel",
+      "video",
+      "education",
+      "leader",
+      "strategy",
+      "management",
+      "lead",
+      "content",
+      "senior",
+      "operational",
+      "marketing",
+      "analytics",
+      "sales",
+      "digital nomad"
+    ]
+  },
+  "1131282": {
+    "id": "1131282",
+    "title": "Technical Program Manager â Platform Migration",
+    "company": "Cayuse",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131282",
+    "source": "RemoteOK",
+    "posted": "2026-04-24T02:51:38.646983",
+    "tags": [
+      "manager",
+      "technical",
+      "support",
+      "test",
+      "growth",
+      "strategy",
+      "lead",
+      "senior",
+      "operational",
+      "health",
+      "engineering"
+    ]
+  },
+  "1131280": {
+    "id": "1131280",
+    "title": "Senior Security Engineer",
+    "company": "Bridgewater Associates",
+    "location": "Remote",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131280",
+    "source": "RemoteOK",
+    "posted": "2026-04-24T02:51:38.647069",
+    "tags": [
+      "security",
+      "technical",
+      "recruiter",
+      "developer",
+      "software",
+      "test",
+      "code",
+      "investment",
+      "cloud",
+      "management",
+      "senior",
+      "engineer",
+      "engineering",
+      "full-time",
+      "digital nomad"
+    ]
   }
 }
