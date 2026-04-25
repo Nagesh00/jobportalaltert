@@ -15282,5 +15282,56 @@
       "engineer",
       "engineering"
     ]
+  },
+  "1131300": {
+    "id": "1131300",
+    "title": "Controller",
+    "company": "MissionWired",
+    "location": "Washington, DC - Remote Flexibility",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131300",
+    "source": "RemoteOK",
+    "posted": "2026-04-25T02:40:04.201458",
+    "tags": [
+      "controller",
+      "saas",
+      "system",
+      "support",
+      "software",
+      "testing",
+      "travel",
+      "manager",
+      "accounting",
+      "financial",
+      "finance",
+      "management",
+      "lead",
+      "operations",
+      "excel",
+      "sales",
+      "health"
+    ]
+  },
+  "1131297": {
+    "id": "1131297",
+    "title": "Strategy & Operations",
+    "company": "TLDR",
+    "location": "",
+    "salary": 175000,
+    "url": "https://remoteok.io/remote-jobs/1131297",
+    "source": "RemoteOK",
+    "posted": "2026-04-25T02:40:04.201625",
+    "tags": [
+      "design",
+      "software",
+      "growth",
+      "strategy",
+      "management",
+      "operations",
+      "operational",
+      "go",
+      "engineering",
+      "digital nomad"
+    ]
   }
 }
