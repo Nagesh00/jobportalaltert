@@ -15484,5 +15484,56 @@
       "senior",
       "biotech"
     ]
+  },
+  "1131375": {
+    "id": "1131375",
+    "title": "Senior Site Reliability Engineer AI Infrastructure",
+    "company": "Andromeda Cluster",
+    "location": "San Francisco",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131375",
+    "source": "RemoteOK",
+    "posted": "2026-04-30T03:35:39.462033",
+    "tags": [
+      "design",
+      "training",
+      "technical",
+      "software",
+      "code",
+      "manager",
+      "financial",
+      "cloud",
+      "management",
+      "lead",
+      "senior",
+      "operations",
+      "reliability",
+      "go",
+      "health",
+      "engineer",
+      "engineering",
+      "linux",
+      "digital nomad"
+    ]
+  },
+  "1131372": {
+    "id": "1131372",
+    "title": "Senior Cost Manager Estimator",
+    "company": "OCMI, Inc.",
+    "location": "San Diego, CA",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1131372",
+    "source": "RemoteOK",
+    "posted": "2026-04-30T03:35:39.462130",
+    "tags": [
+      "manager",
+      "recruiter",
+      "support",
+      "management",
+      "lead",
+      "senior",
+      "healthcare",
+      "non tech"
+    ]
   }
 }
