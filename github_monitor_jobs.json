@@ -19870,5 +19870,23 @@
       "engineer",
       "full time"
     ]
+  },
+  "1133985": {
+    "id": "1133985",
+    "title": "Senior Backend Software Developer",
+    "company": "BitPay",
+    "location": "",
+    "salary": 140000,
+    "url": "https://remoteok.io/remote-jobs/1133985",
+    "source": "RemoteOK",
+    "posted": "2026-06-24T17:55:53.945866",
+    "tags": [
+      "dev",
+      "backend",
+      "javascript",
+      "crypto",
+      "mongo",
+      "node"
+    ]
   }
 }
