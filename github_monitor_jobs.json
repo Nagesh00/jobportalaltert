@@ -21813,5 +21813,30 @@
       "engineer",
       "digital nomad"
     ]
+  },
+  "reed_57096379": {
+    "id": "reed_57096379",
+    "title": "Software Developer Apprentice",
+    "company": "QA",
+    "location": "EH125HD",
+    "salary": "£21,999.0 - £22,000.0",
+    "url": "https://www.reed.co.uk/jobs/software-developer-apprentice/57096379",
+    "source": "Reed.co.uk",
+    "posted": "2026-07-07T11:09:00.640059",
+    "description": "We are looking for an enthusiastic and motivated Software Developer Apprentice to join our growing development team. This is an exciting opportunity for someone who is passionate about technology and ..."
+  },
+  "1134522": {
+    "id": "1134522",
+    "title": "CRO specialist",
+    "company": "sofatutor",
+    "location": "",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1134522",
+    "source": "RemoteOK",
+    "posted": "2026-07-07T11:09:00.803436",
+    "tags": [
+      "testing",
+      "marketing"
+    ]
   }
 }
