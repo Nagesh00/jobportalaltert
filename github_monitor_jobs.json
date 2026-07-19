@@ -23016,5 +23016,29 @@
       "video",
       "medical"
     ]
+  },
+  "1135015": {
+    "id": "1135015",
+    "title": "Patient Scheduler",
+    "company": "ARStrat",
+    "location": "Greater Houston, ",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1135015",
+    "source": "RemoteOK",
+    "posted": "2026-07-19T04:48:41.287165",
+    "tags": [
+      "sys admin",
+      "supervisor",
+      "customer support",
+      "testing",
+      "finance",
+      "education",
+      "microsoft",
+      "exec",
+      "ops",
+      "golang",
+      "medical",
+      "full time"
+    ]
   }
 }
