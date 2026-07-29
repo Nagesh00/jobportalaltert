@@ -24325,5 +24325,29 @@
       "part time",
       "sales"
     ]
+  },
+  "1135562": {
+    "id": "1135562",
+    "title": "Senior DevOps Engineer",
+    "company": "Lemon.io",
+    "location": "",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1135562",
+    "source": "RemoteOK",
+    "posted": "2026-07-29T16:22:44.543290",
+    "tags": [
+      "dev",
+      "engineer",
+      "senior",
+      "full time",
+      "devops",
+      "python",
+      "golang",
+      "aws",
+      "gcp",
+      "kubernetes",
+      "ansible",
+      "sql"
+    ]
   }
 }
