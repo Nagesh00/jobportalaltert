@@ -24871,5 +24871,21 @@
       "excel",
       "recruiter"
     ]
+  },
+  "1135739": {
+    "id": "1135739",
+    "title": "Product Engineer",
+    "company": "SuperPlane",
+    "location": "",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1135739",
+    "source": "RemoteOK",
+    "posted": "2026-08-01T15:38:16.867664",
+    "tags": [
+      "golang",
+      "javascript",
+      "react",
+      "ai"
+    ]
   }
 }
