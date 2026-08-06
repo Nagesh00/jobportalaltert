@@ -25503,5 +25503,55 @@
       "medical",
       "full time"
     ]
+  },
+  "1136209": {
+    "id": "1136209",
+    "title": "Senior Director of Global Operations",
+    "company": "Wing",
+    "location": "Palo Alto, Palo Alto, California, United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1136209",
+    "source": "RemoteOK",
+    "posted": "2026-08-06T00:00:48.146053",
+    "tags": [
+      "exec",
+      "design",
+      "architecture",
+      "recruiter",
+      "customer support",
+      "marketing",
+      "content writing",
+      "ops",
+      "golang",
+      "full time",
+      "digital nomad",
+      "dev",
+      "senior",
+      "medical",
+      "engineer"
+    ]
+  },
+  "1136208": {
+    "id": "1136208",
+    "title": "Director of Marketing",
+    "company": "Wing",
+    "location": "Palo Alto, Palo Alto, California, United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1136208",
+    "source": "RemoteOK",
+    "posted": "2026-08-06T00:00:48.146159",
+    "tags": [
+      "exec",
+      "design",
+      "architecture",
+      "recruiter",
+      "customer support",
+      "marketing",
+      "content writing",
+      "ops",
+      "golang",
+      "full time",
+      "digital nomad"
+    ]
   }
 }
