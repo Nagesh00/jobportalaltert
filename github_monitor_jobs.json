@@ -25553,5 +25553,60 @@
       "full time",
       "digital nomad"
     ]
+  },
+  "1136210": {
+    "id": "1136210",
+    "title": "Head of Security",
+    "company": "Tremendous",
+    "location": "New York, New York, New York, United States",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1136210",
+    "source": "RemoteOK",
+    "posted": "2026-08-06T03:49:28.843603",
+    "tags": [
+      "exec",
+      "design",
+      "architecture",
+      "recruiter",
+      "customer support",
+      "marketing",
+      "content writing",
+      "ops",
+      "golang",
+      "full time",
+      "digital nomad",
+      "dev",
+      "senior",
+      "medical",
+      "engineer",
+      "infosec",
+      "react",
+      "embedded",
+      "technical",
+      "finance",
+      "cloud",
+      "postgres",
+      "typescript",
+      "ruby"
+    ]
+  },
+  "1136162": {
+    "id": "1136162",
+    "title": "Online Marketing Traineeship",
+    "company": "Tyroola.com.au",
+    "location": "Millers Point, ",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1136162",
+    "source": "RemoteOK",
+    "posted": "2026-08-06T03:49:28.843638",
+    "tags": [
+      "education",
+      "customer support",
+      "testing",
+      "marketing",
+      "content writing",
+      "ecommerce",
+      "non tech"
+    ]
   }
 }
