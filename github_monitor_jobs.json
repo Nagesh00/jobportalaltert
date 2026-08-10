@@ -25804,5 +25804,16 @@
       "senior",
       "digital nomad"
     ]
+  },
+  "reed_57214387": {
+    "id": "reed_57214387",
+    "title": "Senior QA Automation Engineer",
+    "company": "Noir",
+    "location": "London",
+    "salary": "£50,000.0 - £65,000.0",
+    "url": "https://www.reed.co.uk/jobs/senior-qa-automation-engineer/57214387",
+    "source": "Reed.co.uk",
+    "posted": "2026-08-10T01:56:23.476822",
+    "description": "Senior QA Automation Engineer - FinTech Trading Platform - London / Hybrid (Tech stack: C#, .NET Core, .NET 8/9/10, AI-Assisted Testing, Test Automation, Reqnroll, SpecFlow, NUnit, Azure DevOps, SQL S..."
   }
 }
