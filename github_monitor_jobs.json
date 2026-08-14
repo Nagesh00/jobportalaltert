@@ -26389,5 +26389,26 @@
     "source": "Reed.co.uk",
     "posted": "2026-08-14T10:32:36.944981",
     "description": "Senior Test Engineer Location: Bristol, Swansea, Leeds, Nottingham, Newcastle, Oldham (Chadderton), Birmingham(Garretts Green) or Uxbridge. Salary : 44,241 per annum (Plus an additional Government Dig..."
+  },
+  "1136594": {
+    "id": "1136594",
+    "title": "Senior Data Engineer",
+    "company": "Lemon.io",
+    "location": "",
+    "salary": 40000,
+    "url": "https://remoteok.io/remote-jobs/1136594",
+    "source": "RemoteOK",
+    "posted": "2026-08-14T16:54:42.700401",
+    "tags": [
+      "dev",
+      "engineer",
+      "full time",
+      "senior",
+      "python",
+      "sql",
+      "aws",
+      "gcp",
+      "apache"
+    ]
   }
 }
