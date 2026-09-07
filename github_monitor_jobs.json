@@ -27373,5 +27373,16 @@
       "engineer",
       "digital nomad"
     ]
+  },
+  "reed_57317240": {
+    "id": "reed_57317240",
+    "title": "Test Automation Lead",
+    "company": "Howdens Joinery",
+    "location": "Hundred House",
+    "salary": "Competitive",
+    "url": "https://www.reed.co.uk/jobs/test-automation-lead/57317240",
+    "source": "Reed.co.uk",
+    "posted": "2026-09-07T17:28:48.592518",
+    "description": "We are looking for an experienced Test Automation Lead to join our growing Core Systems team at Howdens. In this role you will lead a team of automation specialists, develop our automation tooling and..."
   }
 }
