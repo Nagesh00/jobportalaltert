@@ -27883,5 +27883,30 @@
       "engineer",
       "digital nomad"
     ]
+  },
+  "1137475": {
+    "id": "1137475",
+    "title": "Senior React Full stack Developer",
+    "company": "Lemon.io",
+    "location": "",
+    "salary": 80000,
+    "url": "https://remoteok.io/remote-jobs/1137475",
+    "source": "RemoteOK",
+    "posted": "2026-10-10T16:12:09.153375",
+    "tags": [
+      "dev",
+      "engineer",
+      "remote",
+      "python",
+      "aws",
+      "gcp",
+      "javascript",
+      "react",
+      "node",
+      "ruby",
+      "typescript",
+      "full time",
+      "full stack"
+    ]
   }
 }
