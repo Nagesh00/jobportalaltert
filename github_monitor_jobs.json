@@ -28229,5 +28229,69 @@
       "engineer",
       "digital nomad"
     ]
+  },
+  "1137536": {
+    "id": "1137536",
+    "title": "Director of Product Management and IT Operations",
+    "company": "Self Bill Pro",
+    "location": "",
+    "salary": 130000,
+    "url": "https://remoteok.io/remote-jobs/1137536",
+    "source": "RemoteOK",
+    "posted": "2026-10-17T16:53:55.900291",
+    "tags": [
+      "product manager",
+      "exec",
+      "infosec",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "ops",
+      "digital nomad"
+    ]
+  },
+  "1137535": {
+    "id": "1137535",
+    "title": "SAP RE FX Consultant",
+    "company": "Yopeso Romania SRL",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1137535",
+    "source": "RemoteOK",
+    "posted": "2026-10-17T16:53:55.900356",
+    "tags": [
+      "consulting",
+      "design",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "marketing",
+      "exec",
+      "part time",
+      "digital nomad"
+    ]
+  },
+  "1137534": {
+    "id": "1137534",
+    "title": "APAC Python",
+    "company": "Kodland",
+    "location": "",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1137534",
+    "source": "RemoteOK",
+    "posted": "2026-10-17T16:53:55.900386",
+    "tags": [
+      "python",
+      "teaching",
+      "education",
+      "customer support",
+      "dev",
+      "testing",
+      "part time",
+      "non tech",
+      "digital nomad"
+    ]
   }
 }
