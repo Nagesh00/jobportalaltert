@@ -28414,5 +28414,22 @@
       "medical",
       "full time"
     ]
+  },
+  "1137551": {
+    "id": "1137551",
+    "title": "Senior Backend Engineer",
+    "company": "DuckDuckGo",
+    "location": "",
+    "salary": 190000,
+    "url": "https://remoteok.io/remote-jobs/1137551",
+    "source": "RemoteOK",
+    "posted": "2026-10-22T15:31:45.134551",
+    "tags": [
+      "backend",
+      "perl",
+      "golang",
+      "javascript",
+      "node"
+    ]
   }
 }
