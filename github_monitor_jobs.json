@@ -28493,5 +28493,44 @@
       "excel",
       "digital nomad"
     ]
+  },
+  "reed_57465680": {
+    "id": "reed_57465680",
+    "title": "Software Development Engineer in Test (QA Engineer)",
+    "company": "Oliver James ",
+    "location": "M53ED",
+    "salary": "£50,000.0 - £50,000.0",
+    "url": "https://www.reed.co.uk/jobs/software-development-engineer-in-test-qa-engineer/57465680",
+    "source": "Reed.co.uk",
+    "posted": "2026-10-23T17:45:25.612621",
+    "description": "Software Development Engineer in Test (SDET) Location: Manchester, Exchange Quays Working pattern: Hybrid- 2 days on site The Role We are looking for an experienced Software Development Engineer in Te..."
+  },
+  "1137557": {
+    "id": "1137557",
+    "title": "Senior DevOps Engineer",
+    "company": "Lemon.io",
+    "location": "",
+    "salary": 50000,
+    "url": "https://remoteok.io/remote-jobs/1137557",
+    "source": "RemoteOK",
+    "posted": "2026-10-23T17:45:26.055943",
+    "tags": [
+      "devops",
+      "engineer",
+      "dev",
+      "python",
+      "golang",
+      "aws",
+      "gcp",
+      "kubernetes",
+      "sql",
+      "linux",
+      "ansible",
+      "ai",
+      "full time",
+      "full stack",
+      "remote",
+      "remote work"
+    ]
   }
 }
