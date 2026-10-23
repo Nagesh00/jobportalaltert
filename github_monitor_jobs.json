@@ -28532,5 +28532,27 @@
       "remote",
       "remote work"
     ]
+  },
+  "reed_57467418": {
+    "id": "reed_57467418",
+    "title": "Senior QA Engineer",
+    "company": "Searchability",
+    "location": "Newcastle Upon Tyne",
+    "salary": "£50,000.0 - £80,000.0",
+    "url": "https://www.reed.co.uk/jobs/senior-qa-engineer/57467418",
+    "source": "Reed.co.uk",
+    "posted": "2026-10-23T23:55:09.133998",
+    "description": "Senior QA Engineer Newcastle upon Tyne Location: Newcastle upon Tyne, fulltime onsite Salary: up to 80k DOE Skills: C#, Java, Python, Selenium, Playwright, Cypress, Cucumber, Test Automation ABOUT THE..."
+  },
+  "reed_57400944": {
+    "id": "reed_57400944",
+    "title": "Senior QA Engineer",
+    "company": "VIQU IT Recruitment",
+    "location": "Birmingham",
+    "salary": "£55,000.0 - £62,000.0",
+    "url": "https://www.reed.co.uk/jobs/senior-qa-engineer/57400944",
+    "source": "Reed.co.uk",
+    "posted": "2026-10-23T23:55:09.134015",
+    "description": "Senior QA Engineer Birmingham, B2 5DB | 2 days per week in the office Up to 62,000 | 10% bonus | 8% employer pension contribution VIQU has partnered with an organisation operating within the UK’s low-..."
   }
 }
