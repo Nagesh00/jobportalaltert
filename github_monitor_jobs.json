@@ -28609,5 +28609,34 @@
       "medical",
       "full time"
     ]
+  },
+  "reed_57492686": {
+    "id": "reed_57492686",
+    "title": "Electrical Test and Inspection Engineer",
+    "company": "PHS Group Limited",
+    "location": "SG11QR",
+    "salary": "Competitive",
+    "url": "https://www.reed.co.uk/jobs/electrical-test-and-inspection-engineer/57492686",
+    "source": "Reed.co.uk",
+    "posted": "2026-10-26T13:59:05.283573",
+    "description": "Fixed Wire Test Engineer - Stevenage Experience with Electrical Testing and Inspection? Expert at Fixed Wire Testing? Looking for a great career with a market-leading company? Come and be part of our ..."
+  },
+  "1137571": {
+    "id": "1137571",
+    "title": "Senior Software Engineer",
+    "company": "Klardaten",
+    "location": "",
+    "salary": 80000,
+    "url": "https://remoteok.io/remote-jobs/1137571",
+    "source": "RemoteOK",
+    "posted": "2026-10-26T13:59:05.668948",
+    "tags": [
+      "dev",
+      "senior",
+      "javascript",
+      "typescript",
+      "full stack",
+      "api"
+    ]
   }
 }
