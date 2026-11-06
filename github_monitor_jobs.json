@@ -28872,5 +28872,98 @@
       "ai",
       "blockchain"
     ]
+  },
+  "1137691": {
+    "id": "1137691",
+    "title": "Feltsense AI Engineer",
+    "company": "Silver.dev",
+    "location": "",
+    "salary": 60000,
+    "url": "https://remoteok.io/remote-jobs/1137691",
+    "source": "RemoteOK",
+    "posted": "2026-11-06T19:00:47.305067",
+    "tags": [
+      "design",
+      "sys admin",
+      "exec",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "javascript",
+      "cloud",
+      "postgres",
+      "typescript",
+      "node",
+      "node.js",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ]
+  },
+  "1137690": {
+    "id": "1137690",
+    "title": "Operations Expert with Python for AI Supply Chain Task Design",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1137690",
+    "source": "RemoteOK",
+    "posted": "2026-11-06T19:00:47.305112",
+    "tags": [
+      "docker",
+      "git",
+      "inventory management",
+      "supply chain",
+      "microsoft excel",
+      "python",
+      "sap",
+      "sap production planning",
+      "sql",
+      "supply chain operations"
+    ]
+  },
+  "1137689": {
+    "id": "1137689",
+    "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": 0,
+    "url": "https://remoteok.io/remote-jobs/1137689",
+    "source": "RemoteOK",
+    "posted": "2026-11-06T19:00:47.305147",
+    "tags": [
+      "artificial intelligence",
+      "docker",
+      "git",
+      "graphics processing unit",
+      "llm"
+    ]
+  },
+  "1137688": {
+    "id": "1137688",
+    "title": "Senior Vue Developer",
+    "company": "Lemon.io",
+    "location": "",
+    "salary": 50000,
+    "url": "https://remoteok.io/remote-jobs/1137688",
+    "source": "RemoteOK",
+    "posted": "2026-11-06T19:00:47.305193",
+    "tags": [
+      "engineer",
+      "dev",
+      "full time",
+      "full stack",
+      "remote",
+      "remote work",
+      "javascript",
+      "typescript",
+      "php",
+      "laravel",
+      "node",
+      "dot net",
+      "python",
+      "front end"
+    ]
   }
 }
