@@ -29295,5 +29295,24 @@
       "engineer",
       "digital nomad"
     ]
+  },
+  "1137808": {
+    "id": "1137808",
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "location": "",
+    "salary": 10000,
+    "url": "https://remoteok.io/remote-jobs/1137808",
+    "source": "RemoteOK",
+    "posted": "2026-11-20T08:10:17.107619",
+    "tags": [
+      "dev",
+      "golang",
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "c plus plus"
+    ]
   }
 }
